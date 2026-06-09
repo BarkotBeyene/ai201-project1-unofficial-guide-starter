@@ -1,0 +1,452 @@
+Introduction to Learning Techniques
+0:02
+Tell me what you think of this,
+0:04
+what I always call, protocol,
+0:06
+if I want to learn something
+0:08
+from a manuscript I read or a book chapter,
+0:11
+I used to highlight things.
+0:12
+And I had a very elaborate,
+0:14
+extracted from my university days,
+0:16
+system of stars and exclamation marks and underline
+0:18
+that mean a lot to me,
+0:19
+that, yes, bring me back to a given segment
+0:22
+within the chapter.
+0:23
+But a few years ago,
+0:24
+I was teaching a course
+0:26
+in the biology department at Stanford,
+0:27
+and for some reason,
+0:29
+we had them read a study about information retention.
+0:35
+And I learned from that study
+0:37
+that one of the best things we can do
+0:38
+is read information, in whatever form,
+0:41
+a magazine, research article, et cetera, a book,
+0:44
+and then to take some time away from that material,
+0:47
+maybe walk,
+0:49
+maybe close one's eyes,
+0:50
+maybe leave them open, doesn't matter,
+0:51
+and just try and remember specific elements.
+0:54
+How much does one remember?
+0:55
+Then go back to the material and look at it.
+0:57
+And I've just been positively astonished
+1:00
+at how much more information I can learn
+1:03
+when I'm not simply going through motor commands
+1:05
+of just underlining things and highlighting them,
+1:07
+but stepping away and thinking,
+1:08
+"Okay, yeah, oh, I don't remember
+1:10
+how many subjects there were.
+1:11
+I'll go back and check that,
+1:12
+maybe make a note.
+1:13
+And okay, they did this,
+1:14
+then they did that, and then,"
+1:15
+and then it's crystallized.
+1:16
+And as I say this, I realize,
+1:18
+of course this should work,
+1:20
+[laughing] this is the way that the brain learns.
+1:23
+But somehow, that's not the way
+1:25
+we are taught to learn.
+Discovering the Power of Active Recall
+1:27
+Yeah, well, I'm smiling because when I was 22,
+1:30
+I wrote this book
+1:32
+called "How to Become a Straight-A Student," right?
+1:34
+And the whole premise of the book was,
+1:36
+"I'm going to talk to actual college students
+1:39
+who have straight A's
+1:40
+and who don't seem completely ground out, right?
+1:43
+Like, not burnt out.
+1:44
+And I'm just going to interview 'em, right?"
+1:46
+And the protocol was,
+1:47
+"How did you study for the last test that you studied for?
+1:49
+How did you take notes for the last?"
+1:50
+So I was just asking them
+1:52
+to walk through their methodology.
+1:53
+The core idea of that book
+1:56
+was active recall.
+1:58
+That was the core idea,
+1:59
+that replicating ideas, what I used to say is,
+2:01
+"Replicating the information from scratch
+2:03
+as if teaching a class without looking at your notes."
+2:06
+That is the only way to learn.
+2:08
+And the thing about it was,
+2:09
+it's a trade off.
+2:11
+it's efficient, doesn't take much time,
+2:12
+but it's incredibly mentally taxing, right?
+2:14
+This is why students often avoid it.
+2:16
+It is difficult to sit there
+2:18
+and try to replicate and pull forth,
+2:20
+"Okay, what did I read here?
+2:22
+How did that work?"
+2:22
+It's mentally very taxing,
+2:24
+but it's very time efficient, right?
+2:26
+If you're willing to essentially put up with that,
+2:28
+with that pain,
+2:29
+you learn very quickly.
+2:30
+And not only do you learn very quickly,
+2:31
+you don't forget.
+2:32
+It's almost like you have a pseudo-photographic memory
+2:35
+when you study this way.
+2:36
+You sit down to do a test
+2:36
+and you're replicating whole lines [laughing]
+2:40
+from what you studied,
+2:42
+the ideas sort of come out fully formed
+2:44
+because it's such a fantastic way to actually learn.
+The Journey to Academic Excellence
+2:47
+It was my key, the whole premise
+2:49
+that got me writing that book
+2:52
+is I went through this period
+2:54
+as a college student
+2:55
+where I came in freshman year,
+2:57
+was a fine student,
+2:59
+not a great student, but a fine student.
+3:01
+I was rowing crew and I was sort of excited to do that.
+3:04
+And then I developed a heart condition,
+3:06
+and had to stop.
+3:07
+Congenital wiring in the heart,
+3:10
+atrial flutter thing.
+3:11
+It meant I couldn't row crew anymore.
+3:12
+So a prolapse of some sort?
+3:13
+It was a circuitry issue
+3:17
+that would lead to a extremely rapid heartbeat.
+3:19
+It's like really rapid,
+3:21
+like tachycardia, right?
+3:22
+You get 200-250 beats a minute just,
+3:24
+and it could be exercise induced, right?
+3:26
+Which is not optimal,
+3:27
+you could take beta blockers,
+3:29
+which would moderate the electrical timing,
+3:32
+but beta blockers reduce your max heart rate.
+3:34
+And if you're a athlete
+3:36
+where the entire thing that matters
+3:37
+is your max heart rate,
+3:38
+so you're doing something like a 2,000-meter rows,
+3:41
+your performance on beta blockers just goes down.
+3:43
+It makes no sense, it's like being a basketball player
+3:45
+that wears weighted shoes,
+3:46
+it's too frustrating.
+3:47
+Right, and it also makes you super mellow.
+3:49
+I was a pretty mellow guy.
+3:50
+[both laughing]
+3:51
+But I was a worst rower.
+3:53
+So I stopped that, and I was like,
+3:54
+"Okay, I want to get serious about my studies."
+3:56
+I said, "I can get serious about my studies
+3:57
+and writing," right?
+3:58
+That's when I actually made the decisions
+4:01
+that I then stuck with for the next 25 years after that.
+4:04
+But one of the things I did to get serious about my studies
+4:07
+is I said, "I'm going to systematically experiment
+4:10
+with how to study for tests
+4:13
+and how to write papers."
+4:14
+And I would try this, "How did it go?"
+4:16
+deconstruct experiment.
+4:17
+Try this, "How'd it go?"
+4:18
+deconstruct experiment.
+4:19
+And active recall was the thing
+4:21
+that turned me all around.
+4:22
+And so I went from a pretty good student
+4:25
+to 4.0 every single quarter,
+4:27
+Sophomore year, junior year, senior year.
+4:29
+I got one A minus
+4:30
+[laughing] between my sophomore year through my senior year.
+4:32
+It was like this miraculous transformation.
+4:34
+It was active recall.
+4:35
+I rebuilt all of my studying,
+4:37
+so if it was for a humanities class,
+4:39
+I had a whole way of taking notes
+4:40
+that was all built around doing active recall.
+4:43
+For math classes,
+4:44
+my main study tool was a stack of white paper.
+4:47
+"All right, do this proof,"
+4:49
+white piece of paper,
+4:49
+and just, "Can I do it from scratch?"
+4:51
+If I could, I know that technique.
+4:53
+If I don't, "All right, I'm going to come back
+4:54
+and try it again later."`
+4:55
+Completely transformed.
+4:57
+I did so well academically,
+4:58
+that's why I ended up writing that book
+5:00
+that basically spread that message to other people.
+Mastering Material with Active Recall
+5:02
+So I'm a huge advocate for active recall.
+5:04
+It's really hard,
+5:05
+but it is the way to learn new things.
+5:08
+And as you pointed out,
+5:09
+it is very time efficient.
+5:11
+Oh yeah. Yeah.
+5:12
+I mean, it was a problem,
+5:13
+it was a social problem for me
+5:15
+that I would have to pretend
+5:17
+[laughing] during finals period
+5:18
+that I was going to the library to study
+5:20
+because I would be done studying.
+5:22
+This active recall, it's brutal,
+5:23
+but it's incredibly efficient.
+5:25
+You sit down there,
+5:25
+I would have my cards
+5:27
+and I would mark it,
+5:27
+"Okay, I struggled with this,"
+5:29
+I'd put it in this pile,
+5:30
+"I got it done," I'd put it in this pile.
+5:32
+And so then you would just go back to the,
+5:34
+"I struggled with it," pile,
+5:35
+and work on that.
+5:36
+And then make a new, "I struggled with it," pile.
+5:38
+And these would exponentially decay.
+5:40
+And so in a few hours, you could really master,
+5:43
+with a few other tricks that worked,
+5:44
+you could really master the material pretty quickly.
+5:46
+And then, what am I supposed to do?
+5:47
+I didn't do all-nighters.
+5:49
+It wouldn't make any sense.
+5:50
+Active recall is how you prepare,
+5:51
+and it's going to take four hours
+5:52
+and it's going to be tough,
+5:53
+so do it in the morning when you have energy,
+5:55
+and then you're done.
+5:56
+I love it.
+Applying Active Recall in Neuroanatomy
+5:57
+I learned essentially all of neuroanatomy
+6:00
+looking down the microscope at tissue samples.
+6:04
+And then I would try and take photographs with my eyes,
+6:07
+I do not have a photographic memory.
+6:08
+But then I would get home in the evening,
+6:10
+look through the neuroanatomy textbook,
+6:12
+lie down,
+6:13
+and try and fly through the different circuits in my mind.
+6:16
+And then if I arrived at a structure in the brain
+6:18
+that I couldn't identify,
+6:20
+I would then go check my notes
+6:21
+and go back. Ah, that's perfect.
+6:22
+So basically, I learned neuroanatomy,
+6:23
+which I'm poor at a great many things in life,
+6:27
+but neuroanatomy, I'm solid at,
+6:30
+and then some, if I may say so.
+6:32
+And it's because there's a mental map,
+6:34
+and you can kind of move through it,
+6:36
+fly through it dynamically.
+Closing Remarks and Invitation to Watch Full Episode
+6:37
+Thank you for tuning into the Huberman Lab Clips channel.
+6:40
+If you enjoyed the clip that you just viewed,
+6:42
+please check out the full-length episode
+6:44
+by clicking here.
