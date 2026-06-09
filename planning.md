@@ -111,8 +111,8 @@ If deploying for real users at scale, I would evaluate:
 |---|----------|-----------------|
 | 1 | What study techniques does research say are most effective for long-term retention? | Retrieval practice and spaced/distributed practice — ranked highest by Dunlosky et al. Elaborative interrogation and self-explanation also rated highly. |
 | 2 | What causes procrastination and how can students overcome it? | Steel's meta-analysis identifies low self-efficacy, task aversiveness, and impulsiveness as core causes. Interventions include implementation intentions and reducing task aversiveness. |
-| 3 | How do I build a study habit that actually sticks over time? | James Clear's habit stacking — attach the new habit to an existing cue. Zimmerman adds self-monitoring and goal-setting as sustaining mechanisms. |
-| 4 | What does Huberman say about how to optimize focus for studying? | Use visual focus to engage attention networks. Avoid phones for the first 30 minutes after waking. Study in 90-minute ultradian cycles. |
+| 3 | How do I build a study habit that actually sticks over time? | James Clear's habit stacking — attach the new habit to an existing cue. | 
+| 4 | How do I build a study habit that actually sticks over time? | Habit stacking — attaching a new study habit to an existing routine cue (James Clear). Zimmerman adds that self-monitoring and setting specific goals sustain habits long-term. |
 | 5 | What productivity system works best for managing a student's time? | No single best system — GTD for capturing tasks, time blocking for protecting deep work, Pomodoro for maintaining focus during sessions. |
 ---
 
