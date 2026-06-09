@@ -20,18 +20,18 @@ This system covers student effectiveness — the practical knowledge of how to s
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
+| # | Source | Description | URL or citation |
 |---|--------|-------------|-----------------|
-| 1 | Becoming_a_Self_Regulated_Learner_Overview_by_Zimmerman.txt | Academic paper | Self-regulation strategies students use to plan, monitor, and evaluate their learning |
-| 2 | Evidence_Based_Study_Strategies_Overview_by_The_Learning_Scientists.txt | Blog/Article | Practical breakdown of 6 evidence-based study strategies (spaced practice, retrieval practice, etc.) |
-| 3 | How_to_Build_New_Habits_by_Taking_Advantage_of_Old_Ones_written_by_James_Clear.txt | Blog/Article | Habit stacking — attaching new behaviors to existing routines |
-| 4 | How_to_Study_and_Learn_Huberman_Lab_Transcript.txt | Podcast transcript | Neuroscience of focus, alertness, and memory consolidation for learning |
-| 5 | Improving_Students_Learning_With_Effective_Study_Techniques_by_Dunlosky_et_al.txt | Academic paper | Large-scale review of 10 study techniques ranked by effectiveness |
-| 6 | Productivity_Methods_Overview_GTD_Time_Blocking_Pomodoro_by_Todoist.txt | Blog/Article | Overview of GTD, time blocking, Pomodoro, and Eat the Frog methods |
-| 7 | The_Nature_of_Procrastination_Meta_Analysis_by_Piers_Steel.txt | Academic paper | Meta-analysis of procrastination causes, correlates, and interventions |
-| 8 | The_Power_of_Testing_Memory_by_Roediger_and_Karpicke.txt | Academic paper | Foundational research on the testing effect and active recall |
-| 9 | Why_learning_how_to_learn_is_the_skill_behind_all_skills_Anne_Laure_LeCunff.txt | Blog/Article | Metalearning — understanding how your own learning works |
-| 10 | Why_Procrastinators_Procrastinate_by_Tim_Urban_Wait_But_Why.txt | Blog/Article | Long-form essay on the psychology of procrastination |
+| 1 | Becoming_a_Self_Regulated_Learner_Overview_by_Zimmerman.txt | Academic paper | Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory into Practice, 41*(2), 64–70. |
+| 2 | Evidence_Based_Study_Strategies_Overview_by_The_Learning_Scientists.txt | Blog/Article | https://www.learningscientists.org/blog/2016/12/13-1 |
+| 3 | How_to_Build_New_Habits_by_Taking_Advantage_of_Old_Ones_written_by_James_Clear.txt | Blog/Article | https://jamesclear.com/habit-stacking |
+| 4 | How_to_Study_and_Learn_Huberman_Lab_Transcript.txt | Podcast transcript | https://www.youtube.com/watch?v=mzexJPoXBCM |
+| 5 | Improving_Students_Learning_With_Effective_Study_Techniques_by_Dunlosky_et_al.txt | Academic paper | Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. |
+| 6 | Productivity_Methods_Overview_GTD_Time_Blocking_Pomodoro_by_Todoist.txt | Blog/Article | https://www.todoist.com/inspiration/personal-productivity-methods |
+| 7 | The_Nature_of_Procrastination_Meta_Analysis_by_Piers_Steel.txt | Academic paper | Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin, 133*(1), 65. |
+| 8 | The_Power_of_Testing_Memory_by_Roediger_and_Karpicke.txt | Academic paper | Roediger, H. L., & Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. *Perspectives on Psychological Science, 1*(3), 181–210. |
+| 9 | Why_learning_how_to_learn_is_the_skill_behind_all_skills_Anne_Laure_LeCunff.txt | Blog/Article | https://nesslabs.com/learning-how-to-learn |
+| 10 | Why_Procrastinators_Procrastinate_by_Tim_Urban_Wait_But_Why.txt | Blog/Article | https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html |
 ---
 
 ## Chunking Strategy
@@ -45,31 +45,28 @@ My documents are a mix of long-form essays, academic papers, and podcast
 transcripts — all multi-paragraph, substantive texts. None of them are short
 reviews. This means:
 
-**Chunk size: 500 characters** — large enough to carry a complete thought
-  (a full argument, finding, or recommendation) but small enough to match a
-  specific query precisely.
+**Chunk size: 1,200 characters** *(originally spec'd at 500 — updated after evaluation; see note below)*
 
-**Overlap: 75 characters** — ensures that sentences split across chunk
-  boundaries are still retrievable from either side. Without overlap, a key
-  sentence sitting at the boundary of two chunks could be missed entirely.
+**Overlap: 150 characters** *(originally 75 — scaled proportionally with chunk size)*
 
 **Reasoning:**
 My documents are long-form essays, academic papers, and podcast transcripts —
-all multi-paragraph, substantive texts. A 500-character chunk is large enough
-to carry a complete thought (a full argument, finding, or recommendation) but
-small enough to match a specific query precisely.
+all multi-paragraph, substantive texts. At 1,200 characters, each chunk carries
+a complete argument, finding, or recommendation — enough semantic signal for the
+embedding model to match it to a specific query precisely.
 
-Smaller chunks (e.g. 200 chars) would often contain only half a claim — not
-enough semantic content for the embedding model to match it to a query. Larger
-chunks (e.g. 1000 chars) risk mixing unrelated topics in one chunk, diluting
-retrieval precision.
+Smaller chunks (e.g. 500 chars) fragmented academic papers into half-sentences
+with no standalone meaning. After running an initial eval at 500-character
+chunks, retrieval quality was poor — the Roediger paper alone produced 349
+chunks, most containing incomplete thoughts. Distance scores on top results were
+0.6–0.9, and 4 out of 5 evaluation questions returned "I don't have enough
+information on that." Increasing to 1,200 characters brought the total chunk
+count from ~1,455 to 592 and improved retrieval on 3 of the 4 failing questions.
 
-The 75-character overlap ensures sentences sitting at a chunk boundary are
-still retrievable from either side. Without overlap, a key finding split across
-two chunks could be missed entirely.
+The 150-character overlap ensures sentences sitting at a chunk boundary are
+still retrievable from either side.
 
-Expected chunk count: 10 documents × ~2,000–5,000 chars each ≈ 100–300 chunks
-total, well within the healthy 50–2,000 range.
+**Actual chunk count:** 592 chunks across 10 documents.
 
 ---
 

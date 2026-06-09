@@ -1,13 +1,13 @@
 # src/chunk.py
-# Splits cleaned .txt files into 500-char chunks with 75-char overlap
+# Splits cleaned .txt files into 1200-char chunks with 150-char overlap
 # Each chunk: {"text": "...", "source": "filename.txt", "chunk_id": 0}
 
 import os
 import json
 
 CLEANED_DIR = "data/cleaned"
-CHUNK_SIZE = 500
-OVERLAP = 75
+CHUNK_SIZE = 1200
+OVERLAP = 150
 
 
 def chunk_text(text, source, chunk_size=CHUNK_SIZE, overlap=OVERLAP):
