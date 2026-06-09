@@ -1,0 +1,640 @@
+The Ultimate Guide to Personal Productivity Methods
+You don't need a to-do list, you need a system you can trust.
+
+App callout note: This guide has been so popular since...
+
+This guide has been so popular since we first published it in 2015 that we decided to create a whole hub dedicated to documenting the world's best productivity methods. Browse the Productivity Methods Hub on your own or take the Productivity Methods Quiz to get a personalized recommendation based on your workstyle and goals.
+The right productivity method can make a huge difference in your work. A friction-less workflow can take you from feeling overwhelmed, unfocused, and unproductive to feeling calm, in control, and prepared to take on even the biggest projects.
+
+The good news is, there are new methods being developed, tweaked, and shared all the time. There’s bound to be a system out there that fits your unique personality and projects. But wading through the thousands of articles about different productivity systems can be a massive time commitment — time you could be using to actually get things done.
+
+That’s why we decided to do the legwork for you. We’ve gathered the most powerful productivity methods and frameworks all in one convenient place. This post will give you a brief overview of the most popular and useful productivity methods, how each works, and what kind of person will find each useful. It’s designed to help you get set up with your ideal workflow as quickly as possible so you can start reaping the productivity benefits right away.
+
+How to get the most out of this guide
+First, we broke down the time commitment needed to get started with each method, rated with a simple Low, Medium, or High.
+
+Eager to begin a huge project but feel completely lost whenever you try to start? Start with a method rated Medium or High.
+
+Up against a hard deadline with a to-do list the length of California and a tendency to procrastinate under stress? Jump to the systems with a Low rating.
+
+We’ve also indicated which methods are more Visual, Tactile, or Abstract — many are a combination. If which learning/work style you lean toward, you can skim through and jump to the methods that align best with your natural approach:
+
+Visual
+If you’re the kind of person who prefers maps over written or verbal directions, you’ll probably find the visual methods more satisfying.
+
+Tactile
+If you love the feeling of physically crossing items off a to-do list or you often find yourself strategizing by moving note cards around on the floor, you’ll probably feel most comfortable with tactile methods.
+
+Abstract
+If neither of those approaches sound like you — if you organize projects simply by writing it down or you strategize easily in your head with no physical or visual representation — you might find the abstract methods most useful. The upside of abstract methods is that they also tend to allow for more complexity in prioritizing and categorizing.
+
+As you learn about the way that you work best, here are a few things to keep in mind:
+
+The goal is to actually get stuff done. While it’s common for new workflow to take extra time upfront, they should become increasingly effortless over time. If you find that sticking to a certain productivity method is taking up a significant amount of time, energy, and mental bandwidth, it’s probably not for you. That’s ok. There are plenty of other options out there.
+
+You’re not married to one productivity method forever. You may find that a given method is better suited to some of your projects, and not others. A method that used to work for you might become a burden to maintain later on, or you may need a more robust system to tackle a growing workload. Be flexible and don’t be afraid to make a change.
+
+To borrow a phrase from Pirates of the Caribbean, productivity methods are more what you’d call “guidelines” than actual rules. The methods outlined below are great starting points, but they’re infinitely more powerful when you mold them to fit your specific work style. Experiment with different methods and mix and match to find your ideal workflow.
+
+11eb5-0usg5ptnooltmlbwu
+Ready to find the right productivity method for you? Use the overview below to jump to the methods that seem the most promising to you.
+
+Productivity Methods Overview
+Personal Kanban
+Time commitment to get started: Low
+
+Type: Visual, Tactile
+
+Perfect for people who: Have a tendency to start a lot of projects but finish very few of them.
+
+Eating Live Frogs: Do the Worst Thing First
+Time commitment to get started: Low
+
+Type: Abstract
+
+Perfect for people who: Struggle with procrastination.
+
+Must, Should, Want
+Time commitment to get started: Medium
+
+Type: Abstract, visual
+
+Perfect for people who: Need to prioritize a large number of tasks, but tend to go for lists over graphs.
+
+The SMART Method
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Are in the early phases of a big project and need to strategize before jumping in.
+
+The Action Method
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Need to turn creative brainstorming into an actionable to-do list.
+
+Time Blocking
+Time commitment to get started: Low
+
+Type: Visual, abstract
+
+Perfect for people who: Find small tasks and interruptions are taking over the whole day or those who have more than one major area of work that they’re responsible for, especially managers.
+
+Biological Prime Time
+Time commitment to get started: High
+
+Type: Abstract, visual
+
+Perfect for people who: Love data and self-experimentation and want to optimize their days for maximum productivity.
+
+Getting Things Done
+Time commitment to get started: Medium
+
+Type: Abstract, visual, tactile
+
+Perfect for people who: Are feeling overwhelmed with the number of things they are responsible for and need a way organize it all.
+
+Systemist
+Time commitment to get started: Medium
+
+Type: Abstract, visual, tactile
+
+Perfect for people who: Feel overwhelmed with the number of things they need to do, but find maintaining a Getting Things Done system too time-consuming and complicated.
+
+The Medium Method
+Time commitment to get started: Medium
+
+Type: Abstract, visual, tactile
+
+Perfect for people who: Love the concreteness of pen and paper to-do lists, but have too much to keep track of to rely only on pen and paper. If you like to slow down to review and really process everything you’ve learned and thought throughout the day, this method is for you.
+
+Pomodoro/Sprints
+Time commitment to get started: Low
+
+Type: Abstract
+
+Perfect for people who: Feel like there’s never enough time in the day, but have a tendency to get distracted.
+
+Don’t Break the Chain
+Time commitment to get started: Low
+
+Type: Visual
+
+Perfect for people who: Want to adopt new daily habits.
+
+The Eisenhower Matrix
+Time commitment to get started: Medium
+
+Type: Visual
+
+Perfect for people who: Like graphs, have trouble seeing things in black-and-white, and would rather prioritize on a continuum than stuff tasks into a few categories.
+
+Agile Results
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Are goal-oriented and are tackling complex projects and need to keep to a timeline.
+
+The To-Done List and the To-Don’t List
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Spend too much time worrying about how much didn’t get done yesterday or have a lot of bad habits that prevent productivity.
+
+Personal Kanban
+Image credit to lifehacker.com
+Image credit to lifehacker.com
+
+Time commitment to get started: Low
+
+Type: Visual, Tactile
+
+Perfect for people who: Have a tendency to start a lot of projects but finish very few of them.
+
+What it does: Helps you visualize progress on all of your projects.
+
+Personal Kanban is an incredibly simple system. And that can be a good thing. Sometimes all you need to make progress is a way to see the status of your projects laid out simply in front of you.
+
+Here’s how Kanban works: Using whatever medium you prefer (sticky notes or a whiteboard work well), split your projects into three categories: To Do, Doing, and Done. That’s it.
+
+But this simple system is more powerful than it seems.
+
+By using a finite space for “To Do” and “Doing,” you’ll see how quickly those categories fill up. You get a constant, physical reminder when you need to concentrate on finishing your current projects before starting new ones. In addition, having all your work laid out in front of you helps you feel calm and in control of the big picture.
+
+Want to learn more?
+
+Productivity 101: How to Use Personal Kanban to Visualize Your Work(lifehacker.com)
+
+personalkanban.com
+
+Personal Kanban: Mapping Work | Navigating Life (book)
+
+Eating Live Frogs: Do the Worst Thing First
+Image credit to hellostripes.blogspot.com
+Image credit to hellostripes.blogspot.com
+
+Time commitment to get started: Low
+
+Type: Abstract
+
+Perfect for people who: Tend to put off important items, resulting in missed deadlines or rushed work.
+
+What it does: Helps to avoid procrastination while ensuring that you make progress on the right things.
+
+A lot of productivity systems and tools are all about getting started. They assume that as long as you’re crossing something off your to-do list, you’re being productive. But in reality, it can make a big difference which task you pick first.
+
+If you put off your most important tasks until the very last second, you’re not really improving your productivity on the things that matter. And, worse, you may find yourself missing deadlines or hurting your reputation by rushing through your most challenging work.
+
+The term, “eating the frog first,” comes from that old well of (delightfully snarky) wisdom, Mark Twain. He supposedly once said, “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.”
+
+To get started, schedule your daily tasks from hardest to easiest. You’ll get your most important, intimidating, anxiety-inducing tasks(aka your frog) done while your energy is high and your day will get progressively better. You’re likely to find the overall quality of your work improves too.
+
+A huge part of learning to be truly productive is accepting that the impulse to procrastinate is inevitable. Learning to work around your own self-destructive impulses is key. As Brian Tracy puts it in his book Eat that Frog: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time:
+
+Everyone procrastinates. The difference between high performers and low performers is largely determined by what they choose to procrastinate on.
+
+Want to know more?
+
+[Workflow Guide] Why You Should Eat Your Frog First and How To Do It
+
+Big Rocks First: Double your Productivity this Week
+
+Must, Should, Want
+Image credit fabiocruz.com.br
+Image credit fabiocruz.com.br
+
+Time commitment to get started: Medium
+
+Type: Abstract, visual
+
+Perfect for people who: Need to prioritize tasks, but tend to go for lists over graphs.
+
+What it does: Prioritizes your tasks by urgency, ensures that you’re accomplishing the right things.
+
+Must, Should, Want is all about figuring out what’s critical today and what can wait. Write down everything you have to do and then identify each as a Must, a Should, or a Want.
+
+Your Must tasks are non-negotiable. “Pay rent” — that’s a Must if it’s the first of the month.
+
+A Should is something you need to do, but it’s not dire that it be done today. Answering certain emails may be a Should. It’s important, but delaying it a day or two may not be a big deal, especially if you have a list of Musts due tomorrow.
+
+A Want is something you’d like to do, but might not be practical or necessary at the moment. It can be put off for the future, if need be. Learning a new language is a great goal, but if it’s a choice between getting eight hours of sleep every night and becoming conversational in Portuguese, you might not want to risk the long-term effects of sleep deprivation just to learn a new (albeit, beautiful) language.
+
+A popular variation on this method, called MoSCoW, calls the “Want” category, “Could,” and adds another, “Won’t” for those pesky items that always seem to wind up on your to-do lists, but might not be worth your time and energy in the end.
+
+Want to know more?
+
+Prioritize Your Day with MUST, SHOULD, COULD (Day 9 of 30 Days of Getting Results)
+
+Three Tasks You Should Do Every Day to Stay Happy and Productive
+
+Moscow Method
+
+The SMART Method
+Image credit to gcflearnfree.org
+Image credit to gcflearnfree.org
+
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Are in the early phases of a big project and need to strategize before jumping in.
+
+What it does: Turns big, abstract ideas and goals into concrete, actionable plans.
+
+There have been many adaptations and adjustments to the SMART productivity method since it was introduced three decades ago. At its core, SMART is a way to take a big, pie-in-the-sky idea and figure out how to make it work in the real world by asking yourself a series of questions. SMART is an acronym that stands for: Specific, Measurable, Assignable, Realistic, Timely.
+
+Let’s break it down.
+
+Specific:
+
+Meaning the What — what is this project and what, specifically, do you want to accomplish?
+
+Measurable:
+
+These are the individual tasks and steps that add up to a complete project.
+
+Assignable:
+
+Who is going to do which step? Yes, this is another method that can work for teams, but don’t toss out this step if you’re working on a solo project. Chances are, if you’re using SMART you have a big project, and nothing that big can be accomplished 100% on your own.
+
+If you have small children, you might use this step to think through childcare options. If you’re starting a business, you might reach out to a lawyer or financial planner. Every large undertaking requires some help along the way.
+
+Clarifying how you’ll get that help will make it easier to get your project started.
+
+Realistic:
+
+This is the Debbie Downer of SMART. It encompasses all obstacles in your way, everything that could threaten your project. You can’t overcome a problem until you understand it completely. By carefully considering the challenges ahead, you can start mulling over solutions before they even get a chance to trip you up.
+
+Timely:
+
+Deadlines. Deadlines are an important part of nearly every successful productivity strategy, and with good reason. Time constraints force us to be efficient. Come up with reasonable deadlines for each measureable task — ideally giving you more time than you think you’ll need so you don’t fall victim to the Planning Fallacy.
+
+Overall, SMART is perfectly suited for thinking through any big problem or project. However, when it comes to the day-to-day work of a complex undertaking SMART doesn’t have much to offer. This is a great system for anyone who is overwhelmed with the sheer size of their current project and needs a plan to move forward.
+
+It’s simple, it’s easy to remember, and it doesn’t require a lot of reading to get started.
+
+Want to learn more?
+
+Use S.M.A.R.T. goals to launch management by objectives plan
+
+A Brief History of SMART Goals
+
+Setting And Achieving Goals The SMART Way
+
+The Action Method
+Image credit actionmethod.com
+Image credit actionmethod.com
+
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Need to turn creative brainstorming into an actionable to-do list.
+
+What it does: Tidies up the messier aspects of creative work.
+
+The Action Method was developed in 2006 by Behance as a way of simplifying creative meetings. The problem with brainstorming and most creative work is that it often needs to be messy to be truly innovative. Thinking outside the box requires untidiness, but actually getting things done requires an orderly system.
+
+The Action Method helps you move from the idea phase to actionable steps with priorities, due dates, and assignments (if you’re using the Action Method in a team). It involves breaking down ideas into three key categories: Action Items, Backburner Items, and Reference Items.
+
+Action Items are the steps you take to get the project done.
+
+Backburner Items are the interesting ideas that don’t directly fit into your plan for this project.
+
+Reference Items are the resources and information you’ll need to complete the project. For instance, your brand’s visual and logo style guide might be a reference item for a homepage rebranding project.
+
+The Action Method allows you to welcome and integrate great, off-beat ideas while still coming away with a concrete plan.
+
+Though there was an online version of this method for a time, Behance pulled support for it last year. There are still Action Method notebooks sold, if you’re into that kind of thing, but you can use the Action Method with virtually any medium.
+
+Want to know more?
+
+How To Use The Action Method With Todoist
+
+Action Method I: Breaking Projects into Primary Elements
+
+Action Method II: Keeping Projects Alive
+
+Time Blocking
+Time commitment to get started: Low
+
+Type: Visual, abstract
+
+Perfect for people who: Find small tasks and interruptions are taking over the whole day.
+
+What it does: Holds you accountable to your daily plan by allocating specific periods of time for specific types of work.
+
+Researchers have found that bite-size tasks and interruptions (“Hey, can I ask you a quick question?”) can disrupt concentration for up to half an hour. If you find yourself spending too much of your day dealing with little items that only reappear the next day (like emails) and too little time tackling the big stuff, this method is for you.
+
+To start timeboxing, just split up your day into blocks of time with specific tasks assigned to each one. Here’s what one timeboxed day might look like:
+
+Image credit Danielle Morrill
+Image credit Danielle Morrill
+
+There are number of different approaches to timeboxing, along with a variety of task-specific timeboxing methods like Inbox Zero for tackling your email. InboxZero uses a number of tricks to make it work, but one of the foundations involves dedicating specific chunks of time to reading and answering emails so that they don’t take over your day.
+
+This a great way to keep yourself accountable and prevent the minutia from overtaking your whole day.
+
+An additional timeboxing method is called day theming.
+
+It’s exactly what it sounds like. Instead of switching between different types of work or areas of responsibility throughout the day, you dedicate each day of the week to a specific theme. Day-theming is great if you need to dig deeper and do more complex work, or for people who have more than one major area of work that they’re responsible for.
+
+Want to learn more?
+
+Using Time Theming with Todoist– A Free Skillshare Course
+
+Timeboxing 101: What, Why and How
+
+15 Time Boxing Strategies to Get Things Done
+
+Biological Prime Time
+Image credit alifeofproductivity.com
+Image credit alifeofproductivity.com
+
+Time commitment to get started: High
+
+Type: Abstract, visual
+
+Perfect for people who: Love data and self-experimentation and want to optimize their days for maximum productivity.
+
+What it does: Tracks your biological rhythms to find the best times for different kinds of productivity.
+
+This is a delightfully nerdy method. It requires a lot of research on yourself and a big time commitment up front, but the personal productivity insights you’ll get out of it can pay off in the long-run.
+
+The basic idea here is to track your energy, motivation and focus to get a sense of when, where, and how you’re the most productive.
+
+To start, eliminate any factors that could mess with your energy — changes in caffeine intake is a big one, staying up late is another — then record what you’re accomplishing once an hour, every hour that you’re working for a few weeks straight. The exact details that you record may vary, but to get the most accurate results you’ll need to be be as consistent as possible. Time and activity tracking software like Rescue Time and Toggl can be a big help here.
+
+Once you’ve gathered your data you can comb through it, looking for patterns. You can even turn the data into graphs. Do you have less motivation on the days when you skip breakfast? Start keeping energy bars or fruit and yogurt on hand for a bit of quick energy. Is your most productive hour around 10am? Schedule your most important tasks for that time and push meetings off for later in the day.
+
+The sheer amount of information that you can gather about yourself by doing this little take-home version of a scientific study will astound you. You’re bound to discover some very interesting things about what drives your productivity — just be careful to not let your self-quantification become its own form of procrastination.
+
+If you can diligently track all three weeks, you’ll come out the other side a productivity superhero.
+
+Want to know more?
+
+Be Selfish With Your Prime Time
+
+How to calculate your Biological Prime Time
+
+How to use Rescue Time to get magnitudes more down every week
+
+Getting Things Done
+Image credit David Allen
+Image credit David Allen
+
+Time commitment to get started: Medium
+
+Type: Abstract, visual, tactile
+
+Perfect for people who: Have a lot of loose ends rattling around in the brain and need a way organize it all.
+
+What it does: Gets your thoughts, worries, and to-dos all out on paper (or into an app) and then helps you organize it all into small, bite size tasks that you can tackle immediately.
+
+GTD is easily the most famous and lasting productivity method in the world.
+
+Created by David Allen and made famous in his bestselling book of the same name, Getting Things Done is an all-encompassing productivity system. GTD aims to remove the frenzied stress of having too much on your plate by putting those ideas in an organized system outside your own head.
+
+The basic stages of the GTD method are:
+
+Capture — This is a brain dump. Just write down everything you have to do in any order with any wording. Don’t worry about the how’s and when’s, just get it out of your head in some form. A good rule of thumb: If you’re stressed or anxious about it, add it to your list.
+
+Clarify — Pluck out the vague ideas and worries and break them down into specific tasks or steps. If you wrote down “Bank” now clarify whether you need to go to the bank to get cashiers check, call the bank to ask about a loan, or just check your balance online. If it’s a big project, like moving all your banking and investment accounts, for instance, you might need to clarify and then break it down into several little steps. The smaller the better. Small steps feel less intimidating, so you’re more likely to want to tackle them first.
+
+Organize — Now that you have the tasks clarified, you need to prioritize them, attach due dates where you can, and maybe categorize them into projects or types of tasks you can tackle all at once(for example, emails or calls).
+
+Reflect — Look over your to-do list on a daily and weekly basis. Are there any steps in your projects that are still too vague? Break them down further. Any due dates that are unreasonable now that you look back? Adjust them. Are any items on the list no longer relevant? Get rid of them.
+
+Engage — Attack that list. You’re ready to get stuff done.
+
+Todoist’s unique system of labels and filters work well with the GTD method. Taylor Martin shared a short video on how he uses Todoist to GTD. And our own Becky Kane recently shared her tips for making the system work even better for you.
+
+Want to know more?
+
+Getting Things Done: The Art of Stress-Free Productivity (the book)
+
+David Allen’s TED Talk
+
+[Workflow Guide] How to Organize Your Life with GTD and Todoist
+
+Systemist
+Systemist
+Time commitment to get started: Medium
+
+Type: Abstract, visual, tactile
+
+Perfect for people who: Feel overwhelmed with the number of things they need to do, but find maintaining a Getting Things Done system too time-consuming and complicated.
+
+What it does: Keeps track of everything you need to get done in the simplest way possible. You can think of it as a stripped down, streamlined version of GTD.
+
+Systemist is a productivity system developed over time by Todoist’s own creator. It, of course, works well with Todoist, but you can apply the same principles with any digital task manager. Here are the main principles:
+
+Take it everywhere. This system only works if you can review and add tasks no matter where you are. It’s definitely a system for the digitally inclined.
+
+Capture everything. Get in the habit of getting everything out of your head the moment you think of it. You can only trust your system if you’re confident that everything is accounted for in one place.
+
+Break it up into small tasks and make them actionable. Make sure every task on your list is a concrete action you can reasonably complete in an hour or less.
+
+Prioritize. Start off accepting that you won’t get everything done. Use due dates to mark anything that’s time sensitive and mark your high-impact tasks so you don’t get distracted by “urgent, but not important” or “not urgent, not important, but really easy” tasks on your list.
+
+Get to to-do list zero daily. You won’t get everything done, but you should still get to an empty to-do list at the end of the day. This involves deciding what to do with the leftover tasks — postpone them to another day or simply delete them if you’ve decided they’re no longer important. This keeps your to-do list from snowballing out of control.
+
+Get consistent feedback. Review what you’ve accomplished on a regular basis. Set goals for the number of tasks you want to get done and measure your progress over time.
+
+Want to know more?
+
+Systemist: A Modern Productivity Workflow
+
+The Medium Method
+Medium-Method
+Time commitment to get started: Medium
+
+Type: Abstract, visual, tactile
+
+Perfect for people who: Love the concreteness of pen and paper to-do lists, but have too much to keep track of to rely only on pen and paper. If you like to slow down to review and really process everything you’ve learned and thought throughout the day, this method is for you.
+
+What it does: Takes the best of analog and digital and melds them into one seamless productivity system.
+
+Digital task managers are useful, but there’s something about the simple elegance of putting pen to paper that no digital medium will ever be able to replicate. However, when your to-do list grows to anywhere over a dozen tasks, pen and paper systems quickly breakdown. Enter Chad Hall’s Medium Method. Here’s what Chad says you’ll need:
+
+1 main notebook — This is where you’ll jot down anything and everything that you want to keep track of throughout the day: Ideas, tasks, quotes, notes, new appointments. Writing things down helps the information stick in your mind and eliminates potential digital distractions.
+
+1 travel notebook — Performs the same function as your main notebook, but when you’re on-the-go.
+
+Post-It notes — One Post-It note = One day. Every night, you’ll jot down any appointments you have for the following day as well as 3, and only 3, important tasks you want to complete. The limited space of the Post-It forces you to prioritize and you can put you Post-It somewhere you’ll see it throughout the day.
+
+A pen or pencil — For the above-mentioned note-taking and Post-It preparing.
+
+A task management app — Every night you’ll do a review of your written notes. Open your task manager, complete everything you got done, and add any tasks that came up throughout the day. Then identify the 3 tasks from your digital to-do list you want to focus on the next day. Write them on your Post-It.
+
+An online calendar — During your nightly review, add any appointments that you wrote down, to your digital calendar. Add any appointments for tomorrow on your Post-It.
+
+A note app — Add the rest of your notes to your preferred digital note app, like Evernote, OneNote, or Google Keep. Yes, it seems like an awful lot of time spent reentering things you’ve already written, but the repetition allows you to really review and process the day and organize your notes in a way that will be useful when you come back to them later.
+
+Want to know more?
+
+Want to be more productive? Don’t go paperless (The Medium Method)
+
+Pomodoro/Sprints
+Image credit fractuslearning.com
+Image credit fractuslearning.com
+
+Time commitment to get started: Low
+
+Type: Abstract
+
+Perfect for people who: Desperately need to get something done and have a tendency to get distracted.
+
+What it does: Helps you maintain focus for longer by splitting your work into short bursts.
+
+If you find yourself putting off big tasks because the time they’ll take feels too intimidating, or you get distracted easily, you might do well with work sprints.
+
+Pomodoro is the most popular variation, though there are many others. With Pomodoro you work for 25 minutes, take a five-minute break, and then repeat until you’ve completed four sprints, after which you take a longer break. It’s that simple.
+
+Work, 25 minutes
+
+Twitter, 5 minutes
+
+Work, 25 minutes
+
+Instagram, 5 minutes
+
+Work, 25 minutes
+
+Facebook, 5 minutes
+
+Work 25 minutes
+
+Half hour break — get up and stretch!
+
+While many people swear by this technique, others find that 25 minutes isn’t enough to time to delve deeply into their work and the five-minute break disrupts their concentration. If that’s the case for you, you can adjust until you find the exact timing that works for you. There are a few time structures others have found helpful, like 52/17 or 90/20.
+
+Ready to get started?
+
+Marinara (Web)
+
+Pomodone (Windows and Mac desktop)
+
+Pomodoro Time (iOS)
+
+ClearFocus (Android)
+
+[Workflow Guide] Make Time Your Friend with the Pomodoro Technique
+
+Don’t Break the Chain
+Image credit eczemahealing.org
+Image credit eczemahealing.org
+
+Time commitment to get started: Low
+
+Type: Visual
+
+Perfect for people who: Want to adopt new daily habits.
+
+What it does: Encourages consistency in daily habits or tasks.
+
+This technique was made famous by Jerry Seinfeld, who said that he writes a joke every single day. No matter how he feels or whether he has anything to say, he writes at least one joke every day.
+
+And how does he hold himself accountable to keeping this commitment? A calendar — an old-school, hard copy calendar with the whole year on one big page. Each day that he writes, he puts a big X on the calendar. After a few days, a lovely chain of Xs emerges. If ever he’s tempted to skip a day, he just has to look at the calendar where a single missed day will ruin the aesthetic and stick out like a sore thumb.
+
+This is obviously a great technique for adopting or ditching habits. It doesn’t tell you much about your priorities, deadlines, or overall progress, but if you’re trying to write a book or run a marathon, putting in the effort every single day is the only way to get there.
+
+A variation of Don't Break the Chain is Non Zero Days where you endeavor to make progress toward a goal each and every day – it can be small, but it must be something.
+
+Ready to get started?
+
+Increase Your Motivation: 4 Ways to Have Non Zero Days
+
+Printable version for 2016 by Bechance
+
+Don’t Break the Chain (iOS)
+
+Habit Streak Pro (Android)
+
+[Workflow Guide] Accomplish Your Big Goals with Don't Break the Chain
+
+The Eisenhower Matrix
+Image credit thetemptimes.wordpress.com
+Image credit thetemptimes.wordpress.com
+
+Time commitment to get started: Medium
+
+Type: Visual
+
+Perfect for people who: Like graphs, have trouble seeing things in black-and-white, and would rather prioritize on a continuum than stuff tasks into a few categories.
+
+What it does: Identifies which tasks are priorities and which are just distractions.
+
+The Eisenhower Matrix is another simple method that allows you to prioritize in a delightfully visual way: an XY axis. This is a great tool for visual people. It allows for prioritizing complex projects, yet it’s quick and easy to implement.
+
+Take a piece of paper and draw a very large plus sign; the X axis (a.k.a. horizontal line) represents the level of urgency with the left side being the most urgent and the right side the least urgent. Your Y axis (vertical line) represents importance, with the lowest importance at the bottom, highest at the top.
+
+You end up with four boxes: Urgent and Important, Less Urgent but still Important, Less Important but Urgent, and Less important and Less Urgent. You can place all your tasks on a continuum within the boxes, giving you a clear visual understanding of what really needs to be done now and what can (and should) wait.
+
+The instructions are simple, you can create a new matrix with a pen and a piece of paper any time you like. Just start drawing, and you’re off.
+
+Ready to get started?
+
+Grab a pen and paper
+
+Or download the Eisenhower Matrix spreadsheet
+
+[Workflow Guide] Avoid the Urgency Trap with the Eisenhower Matrix
+
+Agile Results
+Image credit gettingresults.com
+Image credit gettingresults.com
+
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Are goal-oriented and/or are tackling complex projects and need to keep to a timeline.
+
+What it does: Focuses on outcomes and prioritization while keeping diligent watch over the scope of your projects and goals.
+
+Agile Results aims to align your day-to-day activities with your larger goals. Like many productivity methods, it encourages working through blocks, but it’s still achievement-oriented. It pushes you to take time to reflect on what’s working and what could be improved. While many methods focus only on moving forward, Agile has one eye on the past and the other on the future.
+
+To start using Agile Results, simply identify three outcomes you want to see for the year, month, week, and day. When setting your daily goals, you should make sure they align with your goals for the week. When you set your goals for the week, they should align with your goals for the month. Same for monthly and yearly goals. At the end of each time period, look back and see how you did. What worked? What didn’t you finish and why? Adjust as needed.
+
+One of the most clever aspects of this method is the way it uses the vision of the finished product as a motivator. By regularly reminding yourself of your end goal, Agile Results re-ignites your enthusiasm and puts it to work for you. It’s also a forgiving method. If you mess up your day or even your week, that’s fine. Agile Results builds in time to think about what went wrong and make better choices in the future.
+
+Want to read more?
+
+30 Days of Getting Results
+
+Productivity System Overview: “Getting Results the Agile Way”
+
+Gettingresults.com
+
+The To-Done List and the To-Don’t List
+Image credit cleanmama.net
+Image credit cleanmama.net
+
+Time commitment to get started: Medium
+
+Type: Abstract
+
+Perfect for people who: Spend too much time worrying about how much didn’t get done yesterday/have a lot of bad habits that prevent productivity.
+
+What it does: Flips the traditional to-do list on its head in order to look at productivity in a new way.
+
+The to-do list can feel a lot like a critical know-it-all sometimes. It remembers that you swore you’d get through all your emails by the end of the day and likes to remind you that you still have a big task overdue from last week. It’s easy to lose sight of all of the things you did get done.
+
+That’s where the to-done list comes in.
+
+To make a to-done list, keep track of what you’ve accomplish throughout the day. Rather than focusing on all that’s left to do, keep your focus on your progress. Review your to-done list at the end of every day.
+
+If you try this and it feels a little silly, stick it out for a day or two. You might find that you’ve accomplished a lot more than you thought — and research shows that progress (no matter how small) is a huge motivator.
+
+If you’ve given the To-Done List a shot and find that little tasks (like replies to unimportant emails) are still clogging up your day, you might try the To-Don’t List.
+
+It’s exactly what it sounds like. Make a list of activities and bad habits that you want to avoid and write them down. Then check them off as you manage to avoid each.
+
+This one also has a tendency to feel awkward and obvious at first. You already know what you should and shouldn’t do with your time. But give it a shot. You might find that the daily reminder is an effective way of giving yourself a mission for the day ahead.
+
+And when you reach the end of the day, you have a clear way of knowing if you were productive. Did you manage to avoid repeating those bad habits? Success!

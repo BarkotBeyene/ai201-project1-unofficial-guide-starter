@@ -1,0 +1,1390 @@
+The Nature of Procrastination 1
+Running head: PROCRASTINATION
+The Nature of Procrastination: A Meta-Analytic and Theoretical Review of Quintessential SelfRegulatory Failure
+Steel, P. (2007). The nature of procrastination. Psychological Bulletin, 133(1), 65-94.
+The Nature of Procrastination 2
+Abstract
+Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely
+understood. Hence, the relevant conceptual, theoretical, and empirical work is reviewed, drawing
+upon correlational, experimental, and qualitative findings. A meta-analysis of procrastination‟s
+possible causes and effects, based on 691 correlations, reveals that neuroticism, rebelliousness,
+and sensation seeking show only a weak connection. Strong and consistent predictors of
+procrastination were task aversiveness, task delay, self-efficacy, impulsiveness, as well as
+conscientiousness and its facets of self-control, distractibility, organization, and achievement
+motivation. These effects prove consistent with Temporal Motivation Theory, an integrative
+hybrid of expectancy theory and hyperbolic discounting. Continued research into procrastination
+should not be delayed, especially since its prevalence appears to be growing.
+Keywords: Procrastination, irrational delay, pathological decision-making, meta-analysis
+The Nature of Procrastination 3
+The Nature of Procrastination: A Meta-Analytic and Theoretical Review of Quintessential SelfRegulatory Failure
+Procrastination is extremely prevalent. Although virtually all of us have at least dallied
+with dallying, some have made it a way of life. Estimates indicate that 80% to 95% of college
+students engage in procrastination (Ellis & Knaus, 1977; O‟Brien, 2002), approximately 75%
+consider themselves procrastinators (Potts, 1987), and almost 50% procrastinate consistently and
+problematically (Day, Mensink, & O‟Sullivan, 2000; Haycock, 1993; Micek, 1982;
+Onwuegbuzie, 2000a; Solomon & Rothblum, 1984). The absolute amount of procrastination is
+considerable, with students reporting that it typically occupies over one third of their daily
+activities, often enacted through sleeping, playing or TV watching (Pychyl, Lee, Thibodeau, &
+Blunt, 2000). Furthermore, these percentages appear to be on the rise (Kachgal, Hansen, &
+Nutter, 2001). In addition to being endemic during college, procrastination is also widespread in
+the general population, chronically affecting some 15-20% of adults (Harriott & Ferrari, 1996;
+“Haven‟t Filed Yet,” 2003).
+Procrastination also appears to be a troubling phenomenon. People most strongly
+characterize it as being bad, harmful, and foolish (Briody, 1980), and over 95% of
+procrastinators wish to reduce it (O‟Brien, 2002). Justifying this viewpoint, several studies have
+linked procrastination to individual performance, with the procrastinator performing more poorly
+overall (Beswick, Rothblum, & Mann, 1988; Steel, Brothen, & Wambach, 2001; Wesley, 1994);
+and to individual well-being, with the procrastinator being more miserable in the long-term
+(Knaus, 1973; Lay & Schouwenburg, 1993; Tice & Baumeister, 1997). For example, a survey by
+H&R Block indicates that procrastinating on taxes costs people on average $400 due to rushing
+and consequent errors, resulting in over $473 million dollars in overpayments in 2002 (Kasper, 
+The Nature of Procrastination 4
+2004). Similarly, the medical field reports that procrastination on the part of patients is a major
+problem (e.g., Morris, Menashe, Anderson, Malinow, & Illingworth, 1990; White, Wearing, &
+Hill, 1994); this is also reflected in the meta-analytic work of Bogg and Roberts (2004).
+A variety of other fields repeat this theme, that procrastination is dangerous. In
+economics, Akerlof (1991) and O‟Donoghue and Rabin (1999) consider the relative lack of
+retirement savings behavior as a form of procrastination, where many start preparing for their
+later years far too late. In the political arena, procrastination has been used to describe both
+Presidential decisions (Farnham, 1997; Kegley, 1989) and the banking practices of nations
+(Holland, 2001), in which important decisions are disastrously delayed. At larger levels of
+analysis, Gersick (1989) describes how teams consistently delay the bulk of their work until
+deadlines approach.
+Unfortunately for such an extensive and potentially harmful phenomenon, much has yet
+to be learned about the causes of procrastination, although there have been some notable reviews.
+Ferrari, Johnson, and McCown‟s (1995) book on the topic is extensive but focuses primarily on
+measurement and theory, with less emphasis on empirical findings. On the other hand, van Eerde
+(2003) did conduct a meta-analysis on procrastination; although statistically solid, it is also
+limited in scope. Based on 88 articles, it does not incorporate environmental variables (e.g., task
+effects) or non-correlational findings (e.g., experimental or survey results), does not consider
+several personality facets (e.g., extraversion or impulsiveness) or theoretical foundations, and
+does not include a moderator search or account for attenuation effects. Finally, a book by
+Schouwenburg, Lay, Pychyl, and Ferrari (2004) reviews the topic but focuses primarily on
+technical expositions of procrastination treatment programs for academic counselors. 
+The Nature of Procrastination 5
+Consequently, there is a need for a comprehensive and detailed examination of the
+research on procrastination. With such a review, we can better elucidate the nature of
+procrastination, understanding when and why it occurs as well as how to prevent it. The goal of
+this paper, then, is threefold. The first goal is to establish the nature of procrastination
+conceptually. Exactly what is it that we are examining? This step involves integrating the many
+different descriptions of procrastination into a single coherent definition, showing that this
+definition is consistent with the history of procrastination, and then placing procrastination
+among related concepts.
+With this conceptual foundation, the second goal is to explore broadly the causes and
+correlates of procrastination, that is, to establish its nomological web. These relationships are
+subsequently tested through meta-analytic review and consideration of relevant descriptive and
+experimental studies. Finally, these necessarily wide-ranging results need to be integrated. The
+findings are evaluated with respect to Temporal Motivation Theory (Steel & König, in press), a
+recent integrative motivational model that seeks to explain self-regulatory behavior in a way that
+is consistent with a wide variety of theoretical perspectives (e.g., economics, personality,
+expectancy theory, goal setting).
+Definition of Procrastination
+Procrastination is occasionally used in a positive sense. Several writers have mentioned it
+as a functional delay or as avoiding rush (e.g., Bernstein, 1998; Chu & Choi, 2005; Ferrari,
+1993b). For example, Bernstein (1998) explains: “Once we act, we forfeit the option of waiting
+until new information comes along. As a result, no-acting has value. The more uncertain the
+outcome, the greater may be the value of procrastination [italics added]” (p. 15). However, the 
+The Nature of Procrastination 6
+positive form of procrastination, as the subsequent historical analysis indicates, is secondary in
+usage. The focus of this paper is on the primary, negative form of procrastination.
+Like many common-language terms drafted into scientific study, definitions for
+procrastination tend to be almost as plentiful as the people researching this topic (see Ferrari et
+al., 1995). Initially, such definitional variation may seem to obscure the nature of procrastination,
+but it may also serve partially to illuminate it. Different attempts to refine our understanding can
+be complementary rather than contradictory. In addition, any common theme likely reveals a
+core or essential element. It is evident that all conceptualizations of procrastination recognize
+that there must be a postponing, delaying, or putting off a task or a decision, in keeping with the
+term‟s Latin origins of “pro,” meaning “forward, forth, or in favor of,” and “crastinus,” meaning
+“of tomorrow” (Klein, 1971).
+Building on this base, we procrastinate when we delay beginning or completing an
+intended course of action (Beswick & Mann, 1994; Ferrari, 1993a; Lay & Silverman, 1996;
+Milgram, 1991; Silver & Sabini, 1981). This is a useful distinction, as there are thousands of
+potential tasks that we could be doing at any time, and it becomes cumbersome to think that we
+are putting them all off. The distinction also separates procrastination from simple decision
+avoidance (Anderson, 2003), where people‟s original intention is to delay.
+In addition, procrastination is most often considered to be the irrational delay of behavior
+(Akerlof, 1991; Burka & Yuen, 1983; Ellis & Knaus, 1977; Silver & Sabini, 1981), which
+reflects the dictionary definition: “defer action, especially without good reason” (Oxford English
+Reference Dictionary, 1996). Being irrational entails choosing a course of action despite
+expecting that it will not maximize your utilities, that is your interests, preferences, or goals of
+both a material (e.g., money) and a psychological (e.g., happiness) nature. Combining these 
+The Nature of Procrastination 7
+elements suggests that to procrastinate is to voluntarily delay an intended course of action despite
+expecting to be worse off for the delay.
+History of Procrastination
+Readers interested in the history of procrastination might seek a book by Ringenbach
+(1971), cited by Knaus (1979), but this search is not recommended. Aitken‟s (1982) investigation
+reveals that the work was never actually written. Her correspondence with Paul Ringenbach and
+the publisher reveals that it was actually an elaborate joke (i.e., a book on procrastination that
+was never completed). See also Kaplan (1998) for a similar well-conducted academic
+article/prank on procrastination (i.e., note the reference to the Stilton and Edam authors who
+“researched” using cheese to assess procrastination in mice). The first actual historical analysis
+on procrastination was written by Milgram (1992), who argues that technically advanced
+societies require numerous commitments and deadlines, which give rise to procrastination.
+Consequently, undeveloped agrarian societies are not so afflicted. In their book, Ferrari et al.
+(1995) take a similar although softened stand. They contend that procrastination has existed
+throughout history but that it only acquired truly negative connotations with the advent of the
+industrial revolution (circa 1750). Before then, procrastination was viewed neutrally and could
+be interpreted as a wise course of (in)action. On balance, there may be some truth to the notion
+that procrastination is a modern malady, as self-reports of procrastination indicate that it may be
+on the rise (Kachgal et al., 2001). Despite this increase, historical references indicate that our
+views about procrastination have been reasonably constant over the ages: it is and has long been
+a prevalent problem.
+Starting from the Industrial Revolution, Samuel Johnson (1751) described procrastination
+as “one of the general weaknesses, which, in spite of the instruction of moralists, and the 
+The Nature of Procrastination 8
+remonstrances of reason, prevail to a greater or less degree in every mind.” A contemporary of
+Johnson, Phillip Stanhope (1749), Earl of Chesterfield, advised, “No idleness, no laziness, no
+procrastination; never put off till tomorrow what you can do today.”
+Clearly preceding the Industrial Revolution was a sermon written by a Reverend Walker
+(1682), who made it quite clear that procrastination is extremely sinful, that he and other
+ministers had rallied their congregations against it repeatedly, and that other texts were available
+that spoke similarly.
+1
+John Lyly, an English novelist patronized by Queen Elizabeth I, was
+known for his 1579 work Eupheus, a book that relied heavily on proverbs for its content. In it
+Lyly noted, “Nothing so perilous as procrastination” (1579/1995).
+A search of classical texts yields several illuminating references to the nature of
+procrastination. In 44 BC, Cicero was the consul of Rome, its highest political office, and an
+infamous orator who spoke against several political opponents, such as Marcus Antonius (i.e.,
+Mark Antony), who later had Cicero killed. In one of a series of speeches denouncing Antonius,
+Cicero stated, “In the conduct of almost every affair slowness and procrastination are hateful”
+(Philippics, 6.7). Roughly 400 years earlier, Thucydides also wrote about procrastination. An
+Athenian general who wrote extensively on the war with the Spartans, including various aspects
+of personalities and strategies, Thucydides mused that procrastination is the most criticized of
+character traits, useful only in delaying the commencement of war so as to allow preparations
+that speed its conclusion (Histoires, 1.84.1). Finally, writing around 800 BC, Hesiod, one of the
+first recorded poets of Greek literature, provides one of the earliest possible citations. His words
+are worth repeating in full: 
+The Nature of Procrastination 9
+Do not put your work off till to-morrow and the day after; for a sluggish worker does not
+fill his barn, nor one who puts off his work: industry makes work go well, but a man who
+puts off work is always at hand-grips with ruin. (Works and Days, l. 413)
+The Bhagavad Gita provides an additional Eastern reference. Written in approximately 500 BC,
+it is considered the most widely read and influential spiritual text of Hinduism (Gandhi,
+Strohmeier, & Nagler, 2000). Within it, Krishna maintains: “Undisciplined, vulgar, stubborn,
+wicked, malicious, lazy, depressed, and procrastinating; such an agent is called a Taamasika
+agent” (18.28). Of special note, Taamasika people are considered so lowly that mortal rebirth is
+denied to them; rather, they go to hell.
+Given this consistency of opinion, stretching thousands of years, procrastination must be
+considered an almost archetypal human failing. Therefore it is rather surprising and ironic that
+science did not address procrastination sooner.
+Procrastination as a Personality Trait
+Whether procrastination can also be considered a trait is an empirical question: Does
+people‟s level of procrastination show consistency across time and situation? There has been
+sufficient research to address this issue, and it suggests procrastination has sufficient crosstemporal and situational stability. To begin with, there appears to be a biological or genetic
+component to procrastination. A recent study by Arvey, Rotundo, Johnson, and McGue (2003)
+asked 118 identical and 93 fraternal male twins reared in the same family to indicate the degree
+to which they were a “procrastinator.” The intraclass correlations for this item were .24 for
+identical twins, and .13 for the fraternal twins, suggesting that approximately 22% of the
+variance on this item was associated with genetic factors.2 Nine short-term studies (N = 928)
+were located that had test-retest reliability data. After an average span of 42 days between 
+The Nature of Procrastination 10
+assessments, the average correlation was .73. In addition, Elliot (2002) managed to obtain longterm test-retest data for 281 participants who took the Adult Inventory of Procrastination. With a
+hiatus of 10 years, the correlation was .77, a further indication that procrastination is sufficiently
+stable to be a trait.
+Given that procrastination reflects personality, the focus then moves to where it fits in the
+nomological web, particularly the five-factor model. Conceptually, there is also considerable
+overlap with conscientiousness. For example, Costa and McCrae‟s (1992) self-discipline scale, a
+facet of conscientiousness, contains several items strongly reminiscent of procrastination itself
+(e.g., “I waste a lot of time before settling down to work.”). Similarly, Schouwenburg (2004)
+concludes:
+Various studies show a very distinct clustering of related traits: trait procrastination, weak
+impulse control, lack of persistence, lack of work discipline, lack of time management
+skill, and the inability to work methodically. In this constellation, there seems little
+justification for viewing procrastination as a separate trait. It is possibly more fruitful to
+label this cluster as (lack of) self-control. (p. 8)
+Despite this overlap, conscientiousness is a broader construct. It has been defined with
+terms as varied as conformity, socially prescribed impulse control, achievement orientation,
+cautiousness, morality, organization, thoroughness, and reliability (Costa, McCrae, & Dye, 1991;
+Goldberg, 1993; Hogan & Ones, 1997). Recent work by Parish (2004) as well as Roberts,
+Chernyshenko, Startk, and Goldberg (2005) has tried to clarify the nature of conscientiousness
+with focused exploratory and confirmatory factor analyses along with criterion validation. In
+each case, a comprehensive list of conscientiousness-related items was administered to over 700
+participants, revealing that the conscientiousness trait is composed of as many as six factors. 
+The Nature of Procrastination 11
+From both of these lists, the first major factor best represents procrastination. For the work of
+Roberts et al., the first major factor is labeled Industriousness and represents rationality,
+efficiency, and hard work. For Parish, the factor is labeled Responsibility and its connection to
+procrastination is explicit; it is defined as the “The Diligent Fulfillment of Objectives.”
+Furthermore, Responsibility (i.e., procrastination) also has the most uniformly strong association
+with workplace deviance and academic performance. Consequently, procrastination may be
+considered to be the most central facet of conscientiousness, but it is not conscientiousness itself.
+The Causes and Correlates of Procrastination
+The amount of empirical work that has been done on procrastination is considerable.
+Researchers have been prolific in exploring different possible connections and correlates. This
+body of work is ideal in establishing procrastination‟s nomological web, but summarizing this
+extensive body of work is a challenge. Initially, the results are divided into four major sections:
+Task Characteristics, Individual Differences, Outcomes, and Demographics. Task Characteristics
+indicate possible environmental causes of procrastination. The Individual Differences section
+deals with relevant personality traits and is organized into the traditional five-factor model.
+Outcomes indicate the proximal effects of procrastination. Finally, the Demographics section
+reviews possible physical and cohort moderators. Each section is then subdivided into more
+specific constructs, which are reviewed along with their relevant theory. The relationships
+covered are then subsequently considered in the meta-analytic review.
+Task Characteristics
+Procrastination involves the voluntary choice of one behavior or task over other options.
+Consequently, we cannot irrationally delay all our tasks, but simply favor some over others.
+Unless we procrastinate randomly, the nature of the task itself must then have some effect upon 
+The Nature of Procrastination 12
+our decisions. True to this conclusion, in Briody‟s (1980) study, about 50% of people responded
+that their procrastination was due to some task characteristic. Two predictable environmental
+factors have been suggested: timing of rewards and punishments, and task aversiveness.
+Timing of Rewards and Punishments
+It has long been observed that the further away an event is temporally, the less impact it
+has upon our decisions (e.g., Lewin, 1935). Ainslie (1975) gives a historical account of this
+phenomenon from a predominantly psychological perspective under the rubric of impulsiveness,
+while Loewenstein (1992) traces its roots from a predominantly economic standpoint in terms of
+temporal discounting. Support for this effect is bountiful, with sufficient research to place it
+formally as one of the psychological laws of learning (Schwartz, 1989) or the dominant
+economic model of intertemporal choice or discounted utility (Loewenstein & Elster, 1992).
+Given this foundation, it is not surprising that it has also been used to explain procrastination.
+In his essay on procrastination, Samuel Johnson (1751) posits temporal proximity as a
+cause in that it is natural “to be most solicitous for that which is by its nearness enabled to make
+the strongest impressions.” More recently, this preference for the present has been resurrected by
+O‟Donoghue and Rabin (1999), who used the economic discounted utility model to describe
+various forms of human procrastination, such as our tendency to save inadequately for
+retirement.
+Task Aversiveness
+Task aversiveness is almost a self-explanatory term. Also known as dysphoric affect
+(Milgram, Sroloff, & Rosenbaum, 1988) or task appeal (Harris & Sutton, 1983), it refers to
+actions that we find unpleasant. Its relationship is predictable. By definition, we seek to avoid
+aversive stimuli, and consequently, the more aversive the situation, the more likely we are to 
+The Nature of Procrastination 13
+avoid it (e.g., procrastinate). Although the extent to which we dislike a task may be influenced by
+a variety of personal characteristics (e.g., boredom proneness, intrinsic motivation), if we do find
+the task unpleasant, research indicates that we are indeed more likely to put it off. Of note, task
+aversiveness needs the previous concept, the timing of rewards and punishment, to account for
+procrastination. By itself, it primarily predicts only task avoidance, not task delay.
+Individual Differences
+Attempts to specify the relationship between procrastination and individual differences
+have been abundant. To help organize the suspected correlates, traits are organized into the
+traditional five-factor model (Digman, 1990). Still, several researchers have focused their work
+on a single facet of a trait, such as impulsiveness. Since the field of personality lacks definitive
+terminology at the facet level (John & Sanjay, 1999), this situation generates an unwieldy
+number of relationships and creates some confusion about what facets should be associated with
+any specific trait. To reduce redundancy and illuminate potential patterns, facets that share a
+similar theoretical association with procrastination are grouped for discussion.
+Consequently, results are clustered into the following groups. Neuroticism is considered
+along with four of its facets: I) Irrational Beliefs, II) Self-Efficacy & Self-Esteem, III) SelfHandicapping, and IV) Depression. Similarly, the trait Extraversion is reviewed along with three
+of its facets: I) Positive Affect, II) Impulsiveness, and III) Sensation Seeking. Agreeableness is
+considered only at the trait level, as is Openness to Experience, although Intelligence/Aptitude is
+also discussed alongside it but analyzed separately. Finally, Conscientiousness is considered
+along with several constructs related to self-regulation: I) Distractibility, II) Organization, III)
+Achievement Motivation, and IV) Intention-Action Gap.
+The Nature of Procrastination 14
+Neuroticism
+Similar in etiology to task aversiveness, neuroticism has also been explored as a source of
+procrastination. Neuroticism is very similar to worrying, trait anxiety, or negative affect.
+Typically, researchers argue that if people procrastinate on tasks because they are aversive or
+stressful, then those who are more susceptible to experiencing stress should procrastinate more
+(e.g., Brown, 1991; Burka & Yuen, 1983; Ellis & Knaus, 1977). Consequently, the highly
+anxious, who can find cataclysmic interpretations in benign events, should be irrationally putting
+off many of life‟s large and little duties.3
+Irrational beliefs.
+Irrational belief, cognition, or thought is a broad term that includes several dysfunctional
+or anxiety-provoking worldviews. Ellis (1973) characterizes them as (1) almost certainly
+hindering the pursuit of happiness and fulfillment of desires, and (2) almost completely arbitrary
+and not amenable to proof or disproof. Since these beliefs create anxiety, their relationship to
+procrastination is similar to that of neuroticism; they make certain tasks increasingly unpleasant.
+Aitken (1982) explains:
+The higher the possibility of rejection (real or imagined), the more likely it is that the
+individual will experience anxiety as he approaches the task. Since even thinking about
+the project evokes feeling of anxiety, the procrastinator starts an alternate task or
+distraction. (p. 32)
+Of all possible irrational beliefs, Knaus (1973) argues that only two are closely related to
+procrastination: believing oneself to be inadequate, and believing the world to be too difficult
+and demanding. Researchers have followed in Ellis‟s (1973) and Knaus‟s (1973) footsteps by
+investigating among procrastinators the prevalence of irrational beliefs as well as four specific 
+The Nature of Procrastination 15
+manifestations. Particularly close attention has been paid to fear of failure, perfectionism, selfconsciousness, and evaluation anxiety, all reasons related to worry about receiving harsh
+appraisal (Beck, Koons, & Milgrim, 2000; Burka & Yuen, 1984; Ellis & Knaus, 1977; Schlenker
+& Weigold, 1990).
+Low self-efficacy and low self-esteem.
+As fear of failure was associated with neuroticism, so it is connected with both low selfefficacy and low self-esteem (Ellis & Knaus, 1977). Specifically, people suffering from irrational
+beliefs may doubt their ability to do well (i.e., low self-efficacy) and believe that any failure to
+perform to standard suggests inadequacy as a person (i.e., low self-esteem). Independent of fear
+of failure, self-efficacy and self-esteem have also been argued to have direct links to
+procrastination and performance (Bandura, 1997; Burka & Yuen, 1983; Judge & Bono, 2001).
+Self-handicapping.
+Procrastinators may feel that their actions will not change their situation, and thus they
+concentrate instead on managing their emotional reactions to the situation. Consequently, to
+cope, they tend to use an emotion-oriented rather than a task-oriented style (Berzonsky, 1992;
+Flett, Blankstein, & Martin, 1995). A particularly well researched form of this emotion-focused,
+dysfunctional self-regulation is self-handicapping, that is, placing obstacles that hinder one‟s
+own good performance. The motivation for self-handicapping is often to protect one‟s selfesteem by giving oneself an external reason, an “out,” if one fails to do well (Jones & Berglas,
+1978; Smith, Snyder, & Handelsman, 1982). Self-handicapping is also associated with a
+diffuse/avoidant identity style (Berzonsky, 1992), a personality type that seeks to avoid relevant
+information about oneself.
+The Nature of Procrastination 16
+From a conceptual standpoint, however, it is debatable whether self-handicapping could
+potentially cause or reflect procrastination. As Brown and Marshall (2001) discuss, an honest
+attempt at the task for people with low self-efficacy and self-esteem promises the gain of a little
+pride if they succeed, although at the risk of significant shame and humiliation if they fail. Given
+their “bounded” although perhaps faulty worldview, it is to their benefit not to make an
+unambiguous bid at succeeding. Their “procrastination” is then done purposefully, to maximize
+their overall utility, and should not be considered an irrational delay. Given that this is a nuanced
+point, delays due to procrastination or to self-handicapping should be behaviorally similar, and
+we can expected them to be empirically related.
+Depression.
+Depression, low energy, learned helplessness, and pessimism are closely related to each
+other and to neuroticism, irrational beliefs, and low self-efficacy or self-esteem. Beck (1993), for
+example, describes depression as being due to irrational beliefs that result in pessimism and selfdislike. Similarly, several studies have shown that neuroticism greatly increases susceptibility to
+depression (Ruiz-Caballero & Bermudez, 1995; Saklofske, Kelly, & Jansen, 1995). Costa and
+McCrae (1992) go so far as to include depression as a facet of neuroticism in their personality
+scale. Several researchers argue that learned helplessness and pessimism are strongly connected
+to depression, both theoretically and empirically (Abramson, Metalsky, & Alloy, 1989; Peterson,
+Colvin, & Lin, 1992). In addition, McCown, Johnson, and Petzel (1989) conducted a principal
+components analysis on several psychological inventories administered to a group of
+procrastinators. They found that depressed affect, neuroticism, and diminished feelings of control
+over the situation tended to load together, indicating that collectively they could represent at least
+one of the causes of procrastination. 
+The Nature of Procrastination 17
+Clinical depression has several characteristics that make it a likely suspect for causing
+procrastination. Depressed people are often unable to take pleasure in life‟s activities, tend to
+lack energy, and have problems concentrating (DSM-IV, 1994), all symptoms that make task
+completion difficult. The Beck Depression Inventory (Beck & Beck, 1972) even includes an item
+reminiscent of procrastination: “I put off making decisions more than I used to.” As energy
+wanes, working apparently becomes painful or more difficult (Baumeister, Heatherton, & Tice,
+1994). Burka and Yuen (1983) also discuss the fact that, when we are tired, it is harder to initiate
+tasks.
+Openness to Experience: Intelligence/Aptitude
+Openness to experience is sometimes referred to as culture, intellect, or need for
+cognition. As McCrae (1996) describes it, “Openness is a broad and general dimension, seen in
+vivid fantasy, artistic sensitivity, depth of feeling, behavioral flexibility, intellectual curiosity,
+and unconventional attitudes” (p. 323). Also, of the big-five personality traits, openness shows
+the strongest relationship with intelligence and scholastic aptitude (Beier & Ackerman, 2001),
+which are consequently summarized here. No direct relationship has yet been posited between
+openness or intelligence and procrastination, and accordingly, none is expected.
+Agreeableness
+According to the clinical literature (Burka & Yuen, 1983; Knaus, 1979), rebelliousness,
+hostility, and disagreeableness are thought to be major motivations for procrastination. Those
+with these personality traits are more likely to experience externally imposed schedules as
+aversive and thus to avoid them. By delaying work and starting it on one‟s own schedule, one
+also reasserts one‟s autonomy. The possibility of this etiology has led to the development of
+paradoxical treatments; for example, people are directed to procrastinate and, when they rebel 
+The Nature of Procrastination 18
+against this directive, they start work early (e.g., Mulry, Fleming, & Gottschalk, 1994; ShohamSalomon, Avner, & Neeman, 1989).
+Extraversion
+Extraversion is one of the more interesting possible causes of procrastination, but also
+one of the more complicated. Extraverts are usually described as sociable, optimistic, outgoing,
+energetic, expressive, exciting, and impulsive (Brand, 1997; Guilford, 1977). Note that the exact
+definition of impulsiveness and its structure wanders somewhat, as well as which personality
+trait it best represents (Revelle, 1997). Typically, impulsiveness indicates spontaneity and a
+tendency to act upon whims and inclinations.
+Some aspects of extraversion have already been discussed. Although pessimism and low
+energy level are aspects of depression, they are also a central part of extraversion, especially as
+measured by positive emotionality or affect (Watson & Clark, 1997). These preliminary findings
+demonstrate some of the complexities of extraversion as procrastination‟s hypothesized
+relationships with these facets conflict. Both lethargy and impulsiveness are expected to predict
+procrastination, but lethargy indicates a lack of extraversion, while impulsiveness suggests an
+abundance of the trait. In keeping with this inconsistency, no significant results are expected for
+extraversion.
+Impulsiveness.
+Where trait anxiety is perceived as representing the “behavioral inhibition system” or
+BIS, impulsiveness is primarily seen as representing the “behavioral activation system” or BAS
+(Pickering, Corr, Powell, Kumari, Thorton, & Gray, 1997). The BAS acts to motivate people in
+their pursuit of rewarding experiences and is a necessary cognitive component for proper 
+The Nature of Procrastination 19
+functioning. However, an overactive BAS should result in characteristics such as rapid decisionmaking and shorter attention spans, which in turn may increase procrastination.
+Impulsive people may be more likely to procrastinate, as they are likely beset with
+desires of the moment and focus their attention upon them (Blatt & Quinn, 1967). Given that
+thoughts of the future do not weigh heavily in their decisions, they often pursue immediate
+gratification, neglecting or ignoring longer-term responsibilities. Consequently, impulsiveness is
+similar to the construct of present time orientation.
+Sensation seeking.
+Sensation seeking, like impulsiveness, is also interpreted as the result of an overactive
+behavioral activation system. People high in this trait are easily bored and long for excitement,
+and thus they may intentionally put off work in order to feel the tension of working close to a
+deadline. Their delays may be more purposefully planned than those of the purely impulsive;
+thus the rationality of this strategy, and consequently whether it should be considered
+procrastination, is debatable. Feasibly, this tactic could actually add significant pleasure and
+increase performance (Revelle, 1997; Sommer, 1990); without it, work could become tedious
+and slogging. However, Ainslie (1992) argues that the habit of sensation seeking may also
+become addictive, resulting in ever-increasing delays as we begin to relish ever-increasing risks.
+Ultimately, sensation-seekers may find that their pleasure has been bought with substantially
+diminished performance and long-term regret.
+Conscientiousness
+As mentioned, procrastination is conceptually representative of low conscientiousness
+and self-regulatory failure. Consequently, it should show strong associations with these
+variables. However, several other constructs should also demonstrate substantive relationships. 
+The Nature of Procrastination 20
+Ideally, procrastination should be associated with distractibility, poor organization, low
+achievement motivation, and an intention-action gap. That each of these constructs represents
+low conscientiousness or self-regulatory failure is reviewed in the following, as well as their
+theoretical connection to procrastination.
+Distractibility.
+It has long been noted that attention is critical to self-control. Sigmund Freud
+(1923/1961) and William James (1890) speak to this point, and more recent prominent
+researchers such as Austin and Klein (1996), Simon (1994), and Kuhl (2000) maintain this view.
+By way of an explanation, Klinger (1996, 1999) indicates that changes in flow of thought are
+preceded by an emotionally arousing cue. Consequently, management of distracting cues could
+facilitate the prevention of procrastination so that one either fails to encode these cues or limits
+their processing so that they are not fully valued.
+Organization.
+Organization refers to ordering, structuring, and planning one‟s life. It is a key selfregulatory technique that can reduce procrastination in several ways. For example, organization
+may contribute to goal setting (Locke & Latham, 1990), gap reflection (Oettingen, 1996), or
+automatic habits that preclude the decision to do otherwise (Bargh & Barndollar, 1996).
+Achievement motivation.
+Another aspect of conscientiousness that should be strongly related to procrastination is
+achievement motivation. Those high in achievement motivation set more difficult goals for
+themselves and often enjoy performance for its own sake (Costa & McCrae, 1992; Spence &
+Helmreich, 1983). Achievement motivation may affect procrastination by making work
+intrinsically engaging and thus necessarily less aversive. However, it is important to note that 
+The Nature of Procrastination 21
+achievement motivation is not limited to intrinsic motivation, and it may incorporate extrinsic
+elements as well.
+Intention-action gap.
+The intention-action gap refers to the degree to which people follow up on their original
+work plans. Most procrastination researchers suppose that delaying is not only irrational but also
+unintentional (e.g., Silver & Sabini, 1981). They believe that procrastinators do not purposefully
+put off their chores, but do so to the contrary of their original intent – an “is” versus “ought”
+scenario. As van Hooft, Born, Taris, van der Flier, and Blonk (2005) summarize the issue, “If the
+delay in action were intended, we would not regard it to be procrastination. Therefore, trait
+procrastination can be viewed as a moderator in the relation between implementation intentions
+and behavior” (p. 244). Failing to act upon one‟s intentions is quintessentially self-regulatory
+failure (Rachlin, 2000), almost the definition of low self-control.
+Outcomes
+To the degree that we are self-interested, self-regulatory failure is associated with
+diminished overall utility, in terms of both mood and performance. Conceptually, procrastination
+is strongly related to conscientiousness, which itself is consistently linked to better performance
+(Barrick & Mount, 2003; Hurtz & Donovan, 2000). Consequently, procrastinators should tend to
+be worse off, in terms of both how they feel and what they achieve. Each of these outcomes is
+discussed in more detail.
+Mood
+Procrastination has long been viewed as a way of temporarily evading anxiety that
+unfortunately becomes compounded when later faced (Mayers, 1946; Solomon & Rothblum,
+1984). Thus procrastination may initially improve mood but should worsen it later. This opens 
+The Nature of Procrastination 22
+the possibility of a deviation-amplifying loop, specifically a depression spiral (Lindsay, Brass, &
+Thomas, 1995). Given that depression may lead to procrastination and can be characterized as
+extended period of negative affect, a poor mood may itself may not only result from
+procrastination, but also create it.
+Performance
+Although it is argued that procrastination leads to poorer performance, some people
+report using procrastination as performance enhancing strategy; it helps get them to marshal their
+resources to cope with an oncoming deadline (Chissom & Iran-Nejad, 1992; Tice & Baumeister,
+1997). However, if procrastination is irrational as well as representative of low
+conscientiousness, this “last-ditch” effort should tend to be less successful than efforts made well
+before the last minute. As with mood, poor performance permits the possibility of reciprocal
+relationships, such as self-efficacy related failure spirals (Lindsay et al., 1995). That is,
+procrastination may lead to poorer performance, which lowers self-efficacy, which in turn leads
+to more procrastination.
+Demographics
+It is unlikely that any personality trait is homogenously distributed throughout a
+population. Fortunately, researchers have consistently provided the information needed to
+evaluate three possible demographic moderators of procrastination: age, sex, and year.
+Age
+People should procrastinate less as they age and learn. As O‟Donoghue and Rabin (1999)
+conclude, “Many people who procrastinate only moderately do so not because of intrinsic selfcontrol, but because they have developed schemes to overcome procrastination” (p. 807). It is
+evident that we can learn to avoid procrastination. Ainslie (1992) and Baumeister et al. (1994) 
+The Nature of Procrastination 23
+review considerable research showing that people tend to procrastinate less with repeated
+practice.
+Sex
+The anticipated influence of sex on procrastination is difficult to predict. Previous
+investigation into gender differences and the related construct of self-control have found mixed
+results (Feingold, 1994). Men may score higher, lower, or the same as women depending on the
+measure. However, meta-analytic results do show that girls score higher on effortful control than
+boys (Else-Quest, Hyde, Goldsmith, & Van Hulle, 2006). On balance then, we could expect
+procrastination to be weakly associated with males.
+Year
+As previously mentioned, Kachgal et al. (2001) believe that procrastination is on the rise.
+This would be consistent with the increase in other forms of self-regulatory failure (e.g., obesity,
+gambling, excessive debt) over the last 25 years (Griffith & Parke, 2002; Sivy, 2000; Wadden,
+Brownell, & Foster, 2002). Since cohort effects in personality do appear to exist (e.g., Roberts,
+Walton, & Viehtbauer, 2006) and since procrastination may be susceptible to environmental
+influences (e.g., task aversiveness), such an increase is a definite possibility. However, although
+self-reports provide the best available data for studying the historical prevalence of
+procrastination, it is always possible that any observed trend represents changes in cultural
+response sets (e.g., a greater willingness to admit procrastination) rather than reflecting a true
+change in underlying behavior.
+Temporal Motivation Theory
+As van Eerde (2003) concluded in her review, “A more comprehensive theoretical
+framework of procrastination is still needed” (p. 1412). One promising candidate is Temporal 
+The Nature of Procrastination 24
+Motivation Theory (Steel & König, in press), a synthesis of traditional, well-established
+motivational formulations that include time as a fundamental term. An integration of this type
+has been proposed by several authors (Loewenstein & Prelec, 1992; Rachlin, 1990;
+Schouwenburg & Groenewoud, 1997), including Akerlof (1991), the Nobel Prize winning
+economist. This synthesis addresses a major problem in psychology, as Staats (1999) concludes:
+“The task that will not go away and that, until faced, will sentence psychology to the ranks of
+„would-be science‟ – is that of unification, of weaving threads together” (p. 8). Similarly, as
+Zeinder, Boekaerts, and Pintrich (2000) indicate specifically for the self-regulatory literature,
+“The fragmentation and disparate, but overlapping, lines of research within the self-regulation
+domain have made any attempt at furthering our knowledge an arduous task” (p. 753).4
+Elements of Temporal Motivation Theory are derived primarily from expectancy theory
+and hyperbolic discounting, although it can be applied to need theory, prospect theory,
+psychobiology, and goal setting theory. Its simplest formulation is:
+ii
+i
+i
+EV Utility
+D
+Utility refers to how desirable a task or choice is. By definition, we pursue whatever behavior
+has the highest utility. As the numerator of the equation indicates, activities that are high in
+Expectancy (E) and Value (V) should be more desirable. The denominator of the equation
+captures the element of time. Enjoyable activities that are immediately realizable (D), that have a
+short delay, should be more highly valued. As delay becomes large, utility necessarily shrinks.
+refers to the person‟s sensitivity to delay, and the larger becomes, the greater is the sensitivity.
+To apply the equation to punishments rather than rewards, merely take its reciprocal. In other
+words, we prefer our punishers to be distant, unlikely, and small. 
+The Nature of Procrastination 25
+Figure 1 illustrates how TMT can account for procrastination. It maps the changing levels
+of utility, the desire to perform, for Thomas Delay. He is a college student who has been
+assigned an essay on September 15th, the start of a semester, due on December 15th, when the
+course ends. To simplify matters, Tom has two choices over the course of his semester, studying
+versus socializing. Tom likes to socialize, but he likes to get good grades even more. However,
+since the positive component of socializing is perpetually in the present, it maintains a uniformly
+high utility evaluation. The reward of writing is initially temporally distant, diminishing its
+utility. Only towards the deadline do the effects of discounting decrease, and writing becomes
+increasingly likely. In this example, the switch in motivational rank occurs on December 3rd
+,
+leaving just 12 days for concentrated effort.
+To demonstrate TMT‟s validity, each of its four components should show strong
+correlations with procrastination, as shown in Table 1. To begin with, Expectancy is most
+strongly represented by self-efficacy, which is a broader but closely related concept (Bandura,
+1997). As is typical in the procrastination literature, self-efficacy is assessed primarily for the
+academic and work domains. Second, Value is represented by three major variables. It is directly
+expressed by Task Aversiveness. The more unpleasant a task, the more likely we will put it off.
+Also, Need for Achievement should be negatively associated with procrastination. Those high in
+the need for achievement are more likely to enjoy working for its own sake. Similarly, Boredom
+Proneness should be negatively associated, since boredom makes work less pleasant. Of note,
+neuroticism is not expected to affect procrastination. For anxiety to have an effect, according to
+TMT, it must differentially affect some tasks and not others. For the example of Thomas Delay
+(see Figure 1), free-floating anxiety will decrease the utility of writing but will also drop the 
+The Nature of Procrastination 26
+utility of socializing by an equal amount, leaving the intersection between the two lines
+unchanged.
+Third, several variables should be associated with sensitivity to delay. The individual
+difference variables of Distractibility, Impulsiveness, and Self-Control are all associated with
+(Ainslie, 1975; Madden, Petry, Badger, & Bickel, 1997; Ostaszewski, 1996, 1997; Petry, 2001;
+Richard, Zhang, Mitchell, & de Wit, 1999). As people become more impulsive or distractible,
+the likelihood that they will procrastinate should increase. Also, age should be negatively
+correlated with procrastination, since Green, Fry, and Myerson (1994) found that temporal
+discounting tends to decrease with age.
+Fourth, Delay is directly expressed by Timing of Rewards and Punishments.
+Procrastinators should work very hard, but only just before the deadline. Furthermore,
+Organization, especially as represented by goal setting (Steel & König, in press), may effectively
+shorten the delays by the creation of proximal goals, thus increasing work effort. In addition, a
+necessary outcome of hyperbolic time-discounting is an Intention-Action Gap (e.g., Loewenstein
+& Elster, 1992; Read, 2001). When choices are made regarding distal courses of action, the
+effect of delay is minimal. Our decisions, consequently, tend to be more rational, reflecting just
+the magnitude of reward. As time progresses, however, delays shorten and their effects become
+more pronounced. Consequently, our original intentions can suddenly change and we find
+ourselves pursuing smaller but more readily realizable rewards. Figure 2, using TMT, shows how
+intentions to spend or save money (as represented by the utility concept along the y-axis) can
+switch merely as a function of delay.
+Aside from this convergent validation, this meta-analysis provides considerable
+discriminant validity for Temporal Motivation Theory as well. There are strong theoretical 
+The Nature of Procrastination 27
+traditions suggesting that procrastination is due to neurotic or rebellious elements, upon which
+much of clinical practice is based. TMT indicates that these other variables should not be
+associated or at most be weakly associated with procrastination. Consequently, positing a lack of
+a relationship is also a strong test of the theory.
+Method
+Article Search
+Explorations into procrastination have cut across a variety of fields, including
+psychology, sociology, political science, and economics, requiring a broad search to gather the
+appropriate publications. As an initial resource, the Procrastination Research Group (2002) has
+attempted to maintain a list of articles, chapters, books, and dissertations on procrastination and
+maintains a copy on-line. Although admirably extensive, this list is incomplete, especially in
+regards to articles from the fields further from psychology. To supplement this list, the following
+steps were taken.
+First, several databases were searched. For all available years to present, the computer
+databases of ABI/INFORM, EconLit, ERIC, MEDLINE, PsychINFO, Proquest Digital
+Dissertations, and the Academy of Management Online Article Retrieval System were explored,
+primarily using the keywords procrastination, dynamic inconsistency, temporal discounting, and
+hyperbolic discounting.
+Second, the Social Sciences Citation Index (i.e., Web of Science) was searched for all
+publications that cited an article regarding procrastination assessment. Specifically, these
+included Academic Procrastination Scale (APS; Milgram & Toubiana, 1999), Adult Inventory of
+Procrastination (AIP; McCown & Johnson, 1989), Aitken Procrastination Inventory (API;
+Aitken, 1982), Decisional Procrastination Questionnaires (DPQI, DPQII; Mann, 1982; Mann et 
+The Nature of Procrastination 28
+al., 1997), General Procrastination Scale (GPS; Lay, 1986), Procrastination Assessment ScaleStudents (PASS; Solomon & Rothblum, 1984), Procrastination Log – Behavior (Lopez &
+Wambach, 1982), Procrastination Self-Statement Inventory (PSSI; Grecco, 1984), Test
+Procrastination Questionnaire (TPQ; Kalechstein, Hocevar, Zimmer, & Kalechstein, 1989), and
+Tuckman Procrastination Scale (TPS; Tuckman, 1991).
+Third, if an author was found to have published more than one article on procrastination,
+the author was contacted where possible. This was done in order to uncover individual research
+programs on procrastination (i.e., “file drawer” problem).
+Fourth, once procrastination-focused references were obtained, each publication‟s
+reference list was also examined for other publications. Masters and doctoral dissertations were
+included in this review as well as unpublished works, when the requisite author was reachable
+and responsive. Foreign-language articles were also included. In total, 553 sources were initially
+identified for review.
+Usable data included effect sizes involving a measure of procrastination that are
+expressed as bivariate correlations or are derivable from (e.g., t-score, d-score or F-score). After
+excluding those that mentioned procrastination peripherally or failed to provide data (e.g.,
+counseling case studies of procrastination), this review considers 216 separate works: 7 book
+chapters, 7 conference proceedings, 3 unpublished papers, 5 electronic sources, 141 journal
+articles, and 53 theses. In total, 691 independent correlations are reported. All studies were
+double-coded and discrepancies resolved to ensure accuracy. Measures were sorted into their
+appropriate traits and categories through analytic discussion (e.g., by reviewing the scale
+description and items). Where consensus could not be reached, measures were excluded. A list
+reflecting how all measures were sorted is available on request. 
+The Nature of Procrastination 29
+In addition to study results that can be reduced to single bivariate correlations and
+consequently meta-analytic summary, procrastination has been examined with a wide variety of
+other methodologies. These include longitudinal and experimental research designs, as well as
+statistical techniques such as structural equation modeling and factor analysis. Also employed
+was survey research regarding why people procrastinate, and hypothetical scenarios regarding
+where and how people typically would report procrastination. This body of research provides
+further insights and is incorporated in this review.
+Meta-Analytic Method
+The summary of the results primarily follows the Hunter and Schmidt (1990)
+psychometric meta-analytic procedure. It is designed for estimating the mean effect size and the
+amount of residual variance in observed scores after considering artifacts, usually sampling error
+and unreliability. Mean effects sizes are expressed as correlations, consequently requiring the
+conversion of t-scores, d-scores, and F-scores where necessary and possible. For all variables,
+corrections were employed for dichotomizing a continuous score, uneven splits, range restriction
+as well as range enhancement, which is similar to range restriction except that one selects only
+extreme scores. When a study used multiple measures of procrastination or of another target
+variable, these were averaged so that only one independent correlation was included in the
+analysis.
+The confidence interval refers to the precision with which the expected mean effect is
+measured; consistent with the random effects model, the heterogeneous form is employed here
+(Whitener, 1990). The credibility interval refers to the limits within which an observed effect
+will likely be in any particular population, that is the degree of generalizability. It is based on the 
+The Nature of Procrastination 30
+residual variance after accounting for sampling error (i.e., SDr.) and, in this study, unreliability
+(i.e., SDρ.). Large credibility intervals indicate the presence of moderator effects.
+The meta-analytic method used here does differ from that of Hunter and Schmidt (1990)
+in one respect. Their equation for estimating SDr (i.e., moderator effect, between-studies
+variance), which determines the width of the credibility intervals, tends to underestimate as the
+number of studies decreases (Cornwell & Ladd, 1993; Hall & Brannick, 2002; Steel &
+Kammeyer-Mueller, 2002). This bias is primarily due to using the sample-size weighted mean
+correlation in place of true , which, if it could be obtained, would give a less biased finding.
+Brannick (2001) offers a simple fix to this problem that is consistent with the random effects
+model and other variance estimates (e.g., the standard deviation): multiply the original variance
+figure by K/(K-1). This correction is employed.
+Finally, for estimating the effects of unreliability, Hunter and Schmidt (1990) suggest that
+the reliability of scales may be obtained from studies other than those used in any specific
+analysis. Consequently, the reliability of each measure for each study was based upon the
+sample-size weighted average of all studies using that scale within this meta-analysis. When no
+study provided the needed reliability, the sample-size weighted average of similar measures was
+employed. This allowed the reliability correction to be conducted on an individual study level
+rather than through artifact distribution. As is typical, refers to the reliability corrected, samplesize weighted, mean effect size.
+Moderator Search
+Although it is unlikely that all of the variance in results can be accounted for, it can be
+substantially reduced through a moderator search. At a minimum, Wortman (1994) recommends
+investigating differences in methodology. On this point there is little variance, with most studies 
+The Nature of Procrastination 31
+using a correlational design based on self-reports. This leads to the possibility of system-wide
+mono-method bias (i.e., Campbell & Fiske, 1959), although this has been addressed in specific
+studies (e.g., Scher & Osterman, 2002; Steel et al., 2001), with effects ranging from none to
+weak depending upon the variable examined (e.g., self-reports generate very similar results to
+other-reports). Still, several methodological variables can be considered. As is typical in many
+research venues, most of the studies employed young university students. To address whether
+this is a limitation to the generalizability of the findings, a moderator search based on age of
+participant was conducted. In addition, the studies were coded according to whether the samples
+represented student, general, or adolescent/child populations. It is also possible that some studies
+were conducted more carefully than others. Since the difficulty of estimating study quality is
+extreme (Wortman, 1994), it is fortunate that this issue is more relevant for experimentally based
+meta-analyses. Most of the results here are based on a relatively straightforward correlational
+design, and quality should not have a substantial impact. Still, study results were coded as being
+from journals and non-journals as well as published and non-published, with the expectation that
+journal and published articles on average are of better quality. Also, extreme correlations were
+examined to determine if they represented outliers, as per Huffcutt and Arthur (1995). Studies
+that had a sample-adjusted meta-analytic deviancy of four or higher were excluded from the
+analysis, although at times it was possible to check and correct such extreme scores with the lead
+author. In this way, two typographical errors were detected where the sign of the correlation was
+reversed in print.
+Ultimately, the impact of methodological differences was minimal. Neither age, nor
+journal status, nor group significantly moderated any relationships. Publication bias was
+detected, but for only two of the relationships, neuroticism and irrational beliefs. Published 
+The Nature of Procrastination 32
+works tended to have .06 and .09 higher correlations, respectively, than unpublished. There was
+one other detectable source of variance: the measures employed. This is a common issue during
+meta-analysis (Doty & Glick, 1998), as similar, although not identical, indices were grouped
+together to reduce redundancy. For example, the average disattenuated correlation among the
+procrastination measures was .70, which reflects substantial similarity, justifying aggregation,
+but also possible differences. To determine whether different scales or tests used had a
+substantive effect, the following moderator searches were conducted: i) Impulsive versus NonImpulsive Neuroticism, ii) Perfectionism versus Irrational Beliefs, iii) Extraversion versus
+Positive Affect, iv) Boredom Proneness versus Sensation Seeking, and v) Need for Achievement
+versus Intrinsic Motivation.
+There are a variety of techniques for detecting these possible moderators during metaanalysis. Recent work by Steel and Kammeyer-Mueller (2002) indicates that weighted least
+squares (WLS) regression provides the most accurate results. Consequently, WLS is employed
+here, with categorical variables dummy coded. As recommended (Tabachnick & Fidell, 1989),
+analysis is limited to when there are at least five cases (K) per moderator variable. Results are
+reported where statistically significant (p<.01).
+Results
+The meta-analytic results are reported in the same subsections used in the literature
+review and are summarized in Tables 2 to 6. Also reported in these subsections are the results
+from other methodologies (e.g., experiments, surveys).
+Task Nature and Procrastination
+Two task characteristics are thought to affect procrastination. First, we tend to favor tasks
+that are more pleasant in the short-term, even if they are detrimental to ourselves in the long-
+The Nature of Procrastination 33
+term. Second, the more intrinsically unpleasant a task is, the more likely we are to avoid doing it.
+However, only task aversiveness proved amenable to meta-analytic summary, and its results are
+reported in Table 2.
+Timing of Rewards and Punishments
+Although research has been performed on temporal effects specific to procrastination, it
+has not been correlational and thus is not summarized meta-analytically. Still, the results do
+support a strong relationship. Mazur (1996, 1998) experimentally investigated procrastination in
+animals, finding that pigeons will indeed put off doing a small amount of work now for a delayed
+reward, in favor of having to do much more work later for the same result. Also, self-report
+methodology indicates the importance of temporal proximity. When students were asked how
+much they would procrastinate under various conditions, they indicated that their procrastination
+would diminish as the task nears completion or as a deadline approaches (Schouwenburg &
+Groenewoud, 2001; Strongman & Burt, 2000).
+Task Aversiveness
+The importance of task aversiveness in triggering procrastination has received strong
+support from a variety of research methodologies. To this end, several researchers administered
+the Procrastination Assessment Scale-Students. Part of this instrument asks respondents to
+indicate why, out of 26 possible reasons, they might procrastinate in writing a term paper. Factor
+analysis of responses consistently generates a dimension best described as “Aversiveness of
+Task,” with its most popular item, “Really dislike writing term papers,” endorsed by 45% of the
+respondents (Kachgal et al., 2001; Peterson, 1987; Rawlins, 1995; Solomon & Rothblum, 1984).
+Using comparable formats, several researchers found that two top-rated reasons for
+procrastinating before performing a task were that the task was unpleasant, or that it was boring 
+The Nature of Procrastination 34
+and uninteresting (Anderson, 2001; Briody, 1980; Froelich, 1987; Haycock, 1993). Using an
+open-ended format, Ferrari (1993a) elicited a similar reason why people shopped late for
+Christmas: they disliked shopping.
+In addition, aversiveness has been investigated for several different types of tasks,
+including personal projects, daily tasks, academic tasks (such as publication), and job search
+behaviors. This research has employed a variety of methodologies, including the more rigorous
+formats of time sampling and daily logs (Ferrari & Scher, 2000; Pychyl et al., 2000).
+Consistently and strongly, the more people dislike a task, the more they consider it effortful or
+anxiety producing, the more they procrastinate (
+r
+=.40, K=8). Interestingly, two moderators of
+this effect are reported. First, aversiveness effects intensify if the projects are short-term (Lay,
+1987, 1990). Second, this relationship between procrastination behavior and task aversiveness is
+moderated by conscientiousness, with low conscientiousness apparently increasing the effect of
+task pleasantness on procrastination (Lay & Brokenshire, 1997; see also Somers, 1992). The
+correlation between trait procrastination and finding tasks aversive in general is also strong and
+stable (
+r
+=.40, K=10). This correlation indicates that one possible reason why some people
+procrastinate more is simply that they find more of life‟s chores and duties aversive.5
+Finally, several researchers have considered what type of task adversiveness is best
+correlated with procrastination. Jobs characterized by lower autonomy, task significance, and
+feedback were likely to increase decisional procrastination (Lonergan & Maher, 2000), although
+they were less related to behavioral procrastination (Coote-Weymann, 1988; Galué, 1990).
+Instead, behavioral procrastination was most strongly associated with the aversive task
+components of frustration, resentment, and particularly boredom (Ackerman & Gross, 2005;
+Blunt & Pychyl, 2000; Briody, 1980; Haycock, 1993; Puffer, 1989; Strongman & Burt, 2000). 
+The Nature of Procrastination 35
+Similar results were found using experimental methodology (Senécal, Lavoie, & Koestner, 1997;
+Sigall, Kruglanski, & Fyock, 2000). The more boring and difficult a task was made, the more
+likely people were to delay doing it.
+Individual Differences
+Individual Differences is the largest of the sections, dealing with the results for a wide
+range of variables. Tables 3 through 5 meta-analytically summarize all these findings.
+Neuroticism
+The results for neuroticism and its facets are summarized in Table 3. Despite generating a
+weak positive correlation (
+r
+=.24, K=59), it is at best very weakly associated with
+procrastination. To begin with, a weak positive correlation between neuroticism and
+procrastination should be expected due to method effects alone. Those who are more anxious or
+have more negative affect tend to be harsher judges of their own behavior, but are not necessarily
+poorer performers (Carver & Scheier, 1990; Ellis, 1989; Sarason, Sarason, & Pierce, 1990). That
+neuroticism appears to be essentially unrelated to observed procrastination (Steel et al., 2001; or
+fear of failure, Ackerman & Gross, 2005) supports this assertion.
+Furthermore, neuroticism‟s connection to procrastination appears to be primarily due to
+impulsiveness, not anxiety. Results analyzed at the facet level indicated that neuroticism‟s
+connection to procrastination was “largely a matter of impulsiveness” (Schouwenburg & Lay,
+1995, p. 488; see also Johnson & Bloom, 1995), and that it added little unique variance over
+conscientiousness. More recently, structural equation modeling analysis indicates that
+neuroticism has no direct links to procrastination and that any relationship is fully mediated by
+conscientiousness (Lee, Kelly, & Edwards, 2006). Support for this conclusion can be found by
+segmenting the results specific to neuroticism by measure: the EPQ (Eysenck & Eysenck, 1975), 
+The Nature of Procrastination 36
+the BPP (Harary & Donahue, 1994), and the BFI (John, Donahue, & Kentle, 1991) do not nest
+impulsiveness with neuroticism to the same extent as the NEO (Costa & McCrae, 1992) or the
+EPI (Eysenck & Eysenck, 1964). Examining the studies that used the non-impulsive related
+measures suggests a mean correlation of only .16, while examination of those that used the
+impulsive measures suggests a mean correlation of .33. Using WLS regression, this is a
+significant difference (F(1,18)=47.84, p<.001).
+Finally, there are two other anxiety-related issues. First, McCown et al. (1987) reported a
+curvilinear relationship between neuroticism and procrastination that explained approximately
+61% of the variance. This is an extremely strong finding, but not equally robust. Unfortunately,
+no supporting result has been reported in any subsequent work (Johnson & Bloom, 1995;
+Schouwenburg & Lay, 1995; Steel et al., 2001), and the original work of McCown et al. could be
+considered anomalous. Second, Blatt and Quinn (1967) argued that procrastination was due to a
+form of anxiety, specifically fear of death. Testing this, Donovan (1995) found a correlation of
+.28 between procrastination and the Death Anxiety Scale, which is not significantly different
+from the results obtained for general anxiety.
+Irrational beliefs.
+Although clinical work stresses that irrational beliefs are a major source of
+procrastination, results are irregular and often weak. Meta-analytic review indicates that the
+average correlation is .17 (K=71). However, significantly weaker as well as stronger results have
+been obtained with two different specific forms of irrational beliefs.
+Using WLS regression, self and other perfectionism proved to be much lower
+(F(1,67)=11.53, p<.001) than other forms of irrational beliefs. Only socially prescribed
+perfectionism, where we believe that significant others have set standards for us, is even weakly 
+The Nature of Procrastination 37
+related to procrastination (
+r
+=.18; analyzed with other fear of failure constructs). According to
+Haycock (1993), only 7% of people surveyed report perfectionism as contributing to their
+procrastination. In addition, the Almost Perfect Scale (Slaney, Ashby, & Trippi, 1995) of
+perfectionism has four items related to procrastination. As found by Enns and Cox (2002) and
+Slaney, Rice, and Ashby (2002), perfectionists generally scored the same or lower on
+procrastination than non-perfectionists, the exception being perfectionists who were also seeking
+clinical counseling.
+However, WLS regression indicates that somewhat stronger results were obtained with
+more general irrational belief scales (F(1,67)=5.73, p=.02), such as the Self-Critical Cognition
+Scale (Ishiyama & Munson, 1993). Other research also indicates that irrational beliefs do appear
+to be the source of at least some procrastination. Solomon and Rothblum (1984) extracted a fear
+of failure dimension from a factor analysis of 26 procrastination reasons, a finding repeatedly
+replicated (Brownlow & Reasinger, 2000; Clark & Hill, 1994; Harrington, 2005; Milgram,
+Marshevsky, & Sadeh, 1995; Onwuegbuzie, 2000b; Peterson, 1987; Rawlins, 1995;
+Schouwenburg, 1992). The dimension consists of evaluation anxiety, low self-confidence, and
+perfectionism. Its most popular item was endorsed by approximately 17% of respondents
+(Kachgal et al., 2001; Solomon & Rothblum 1984). A typical item is “Were concerned you
+wouldn‟t meet your own expectations.” Generating a similar finding, although using an openended questionnaire, Briody (1980) and Haycock (1993) found respectively that 16% and 7% of
+people gave fear of failure as a reason. This discrepancy between correlational and frequency
+data likely indicates a form of counterbalancing; people may also cite fear of failure as a reason
+for not procrastinating. Using an experimental design, Senécal et al. (1997) found further 
+The Nature of Procrastination 38
+support. Procrastinators are more likely to put off difficult and boring tasks when they expect to
+be evaluated.
+Low self-efficacy and low self-esteem.
+Both variables were associated with procrastination, both in the expected direction and to
+the expected degree. Self-efficacy showed the strongest relationship, with meta-analytic review
+giving its average correlation as -.38 (K=39). Two other studies support of the importance of
+self-efficacy. Briody (1980) found 8% of respondents stating that low self-confidence was a
+cause of procrastination. Micek (1982) found that procrastinators were more likely to give up on
+their efforts when encountering an obstacle (r=.40). For self-esteem, the average correlation was
+similarly negative, but weaker at -.27 (K=33).
+Self-handicapping.
+The average correlation between self-handicapping and procrastination is .46 (K=16). As
+additional evidence, procrastinators tend to spend more time on projects if they are likely to fail,
+while the opposite relationship is seen for non-procrastinators (Lay, 1990). Similarly,
+procrastinators were experimentally shown to enter voluntarily into conditions or to engage in
+activities that self-handicapped their performance on evaluative tests (Ferrari, 1991c; Ferrari &
+Tice, 2000). However, Lay, Knish, and Zanatta (1992) found several divergent relationships
+between self-handicappers and procrastinators, indicating that although the two overlap
+conceptually, they are different. While self-handicappers and procrastinators may both delay
+their efforts, self-handicappers are more likely to engage in other forms of self-handicapping
+(e.g., avoid practicing for a test). 
+The Nature of Procrastination 39
+Depression.
+As summarized, depression is associated with procrastination, demonstrating an average
+correlation of .28 (K=56). Aside from depression in general, several studies have focused on one
+of its symptoms, lethargy or lack of energy. Tiredness is one of the top three reasons that
+students give for putting off work (Strongman & Burt, 2000). Approximately 28% of students
+indicated “Didn‟t have enough energy to begin the task” as a source of procrastination (Kachgal
+et al., 2001; Peterson, 1987; Solomon & Rothblum, 1984). Notably, this item was also associated
+with others indicating task aversiveness.
+Other research regarding the relationship between procrastination and pessimism or
+optimism indicates that this facet of depression may be too complex to be described in a general
+linear fashion. Although the results for pessimism were not significantly different from those for
+general depression, Sigall et al.‟s (2000) experimental investigation indicates that it is possible to
+be too optimistic. They found that extremely optimistic participants were more likely to
+procrastinate in initiating an aversive task. An examination of their expectations indicates that
+they thought they could delay and still finish before the deadline. This finding is similar to Day
+et al.‟s (2000) description of the socially active optimistic, who are confident in their ability to
+delay their work successfully until later.
+Openness to Experience: Intelligence/Aptitude
+The results for openness to experience and intelligence/aptitude are summarized in Table 4.
+Openness to experience shows a scant correlation of .03 (K=16). Similarly, the relationship for
+intelligence/aptitude is low at .03 (K=14).
+The Nature of Procrastination 40
+Agreeableness
+Meta-analytically, the average correlation of agreeableness is -.12 (K=24), as per Table 4.
+However, Kachgal et al. (2000) and Solomon and Rothblum (1984) did extract through factor
+analysis a dimension titled “Rebellion against Control” when examining reasons for
+procrastinating. Still, its most popular item, “You resented people setting deadlines for you,” was
+endorsed by under 5% of respondents.6
+Extraversion
+The results for extraversion and its facets are summarized in Table 4. For extraversion
+specifically, they are extremely weak, with a correlation of -.12 (K=27). Furthermore, findings
+specific to positive affect may potentially show more consistent results, since positive affect
+emphasizes the energy rather than the impulsivity component of extraversion. Accordingly,
+confining the meta-analysis to positive affect reveals a correlation of -.17 (K=12). As WLS
+regression indicates, it is marginally stronger (F(1,28)=4.34, p=.04) than measures specific to
+trait extraversion (
+r =-11, K=18). On the other hand, there appear to be aspects of extraversion
+that lead to procrastination. McCown et al. (1989), using principal components analysis, describe
+a type of procrastinator as extraverted and outgoing. Similarly, Briody (1980), Froelich (1987),
+Haycock (1993), and Strongman and Burt (2000) all indicate that a common distraction, social
+activities with friends, facilitates procrastination. Finally, Senécal, Julien, and Guay (2003) found
+a correlation of .30 between procrastination and a measure of role conflict due to interpersonal
+relationships.
+Impulsiveness.
+Evidence suggests that impulsiveness plays a solid role in procrastination. As reviewed,
+the average correlation between procrastination and impulsiveness is .41 (K=22). Other research 
+The Nature of Procrastination 41
+using related criteria provides additional confirmation. Procrastinators tend not to have a future
+temporal orientation (Lasane & Jones, 2000; Specter & Ferrari, 2000) and tend to dislike
+structure or routine (Somers, 1992). Also, they tend not to be stimulus screeners (Lay, 1987).
+Non-screeners are more sensitive to pleasantness of tasks and thus more likely to be impulsive.
+Qualitative analysis of procrastination also indicates that typically the decision to procrastinate is
+impulsive and unplanned (Quarton, 1992). Finally, when asked how they prefer to structure their
+daily work, procrastinators typically choose to start with the more pleasurable tasks, while nonprocrastinators prefer to sequence those last (König & Kleinmann, 2004).
+Sensation seeking.
+Evidence suggests that perhaps some procrastination is motivated by sensation seeking,
+but not very much. As summarized, the average correlation with procrastination is .17 (K=11).
+Additional findings in Kachgal et al.‟s (2000) and Solomon and Rothblum‟s (1984) factor
+analyses suggest that sensation seeking has only marginal importance. These studies extracted a
+risk-taking dimension by examining the reasons for procrastinating. It was not well endorsed,
+with only 6.4% of students responding positively to its most popular item, “Looked forward to
+the excitement of doing this task at the last minute.” Likewise, Froehlich (1987) found that one
+of the lowest rated reasons for procrastinating was, “I like the excitement and challenge of doing
+things at the last minute.”
+However, there is one caveat. As mentioned, task aversiveness is strongly associated with
+procrastination, particularly if the task is boring. Three of the studies on sensation seeking (Blunt
+& Pychyl, 1998; Ferrari, 2000; Vodanovich & Rupp, 1999) deal specifically with boredom
+proneness, which shows a significantly stronger relationship with procrastination according to
+WLS regression (F(1,9)=20.4, p=.001), with a
+r
+=.40. 
+The Nature of Procrastination 42
+Conscientiousness
+The results for conscientiousness and its facets are summarized in Table 5. Several early
+studies have shown that there was some connection between procrastination and competitiveness
+or super-ego strength (Effert & Ferrari, 1989; Wessman, 1973). More recent investigations using
+conscientiousness from the five-factor model of personality indicate that the average correlation
+is -.62 (K=20). Of note, Scher and Osterman (2002) found a virtually identical relationship when
+using other- instead of self-reports.
+In addition, once conscientiousness had been partialled out of the correlations between
+procrastination and the other four trait factors, virtually none of them reached either practical or
+statistical significance (Johnson & Bloom, 1995; Schouwenburg & Lay, 1995). Also,
+Schouwenburg (1995) factor analyzed several measures related to procrastination,
+conscientiousness, and neuroticism. The procrastination and conscientiousness variables loaded
+together, while those related to neuroticism loaded on a separate dimension.
+Self-control/self-discipline.
+Researchers have studied self-discipline using a wide variety of self-control,
+organization, and planning scales. Results, as reported in Table 5, indicate an average correlation
+of -.58 (K=21). Other supporting research includes Schouwenburg‟s (1995) factor analysis,
+which suggests that self-discipline may be equivalent to trait procrastination, or that it is at least
+a proximal cause of procrastination behavior. Similarly, procrastinators tend to choose short-term
+benefits over long-term gains, reflecting a core component of poor self-regulation (Tice &
+Baumeister, 1997). 
+The Nature of Procrastination 43
+Distractibility.
+Results firmly support the importance of distractibility. Its average correlation is large at
+.45 (K=13) as well as extremely consistent, as indicated by the credibility intervals. Haycock
+(1993) identified the availability of distractions as one of the top reasons contributing to
+procrastination.
+Organization.
+As expected, organization demonstrates a strongly negative relationship. Results
+consistently indicate that organization is antithetical to procrastination, with an average
+correlation of -.36 (K=25).
+Achievement motivation.
+One of the first findings in the field of procrastination is that procrastinators tend to have
+lower achievement drives (Lum, 1960). As meta-analytically summarized, need for achievement
+combined with intrinsic motivation has an average correlation of -.35 (K=34). In addition, Lay‟s
+(1987) efforts in typology extracted a type of procrastinator that he termed the “underachiever.”
+However, achievement motivation is a broader construct than intrinsic motivation. Accordingly,
+WLS regression confirms that results are significantly different depending upon whether they
+deal with need for achievement or intrinsic motivation (F(1,34)=22.90, p<.001). Results dealing
+specifically with need for achievement suggest an even higher correlation of -.46 (K=17).
+Intention-action gap.
+Procrastination does appear to be often involuntary, with procrastinators typically
+agreeing with the statement, “No matter how much I try, I still put things off” (r=.64; Stainton,
+1993). Other research supports this assertion. To begin with, several studies have compared
+procrastination with self-reported work intentions over several time periods. The two variables 
+The Nature of Procrastination 44
+are almost completely independent, and thus procrastinators usually intend to work as hard as
+anyone else or harder (
+r =-.03, K=8). Given this typical lack of difference, researchers have
+focused on how consistently procrastinators act upon these intentions. One way this has been
+assessed is by administering procrastination measures in conjunction with a self-report intentionaction discrepancy measure, such as Kuhl‟s (1994) state-oriented hesitation scale or
+Schouwenburg‟s (1992) dilatory behavior scale. As Table 5 indicates, dilatory behavior
+correlates on average .52 with procrastination (K=16).
+In addition, several researchers investigated this topic by measuring the disparity between
+intended and actual work habits. As Table 5 indicates, the average correlation was .29 (K=6). Of
+note, the size of this gap is highly contingent on the time separating intention and action. It
+increases, the further ahead that procrastinators plan their actions (i.e., one week versus two)
+(Steel, 2002a). On the other hand, the gap decreases and even reverses as the deadline begins to
+loom (Steel et al., 2001; van Hooft et al., 2005). In the final hour, it is the procrastinator who is
+doing more work than intended.
+Outcomes
+Outcomes refer to the expected effects on utility, specifically a poorer mood and worse
+performance. It is important to note that these outcomes may still represent more distal causes of
+procrastination, possibly increasing depression or decreasing self-efficacy, for example.
+Effect on Mood
+The empirical evidence concerning mood is not definitive. Moods have the potential to
+show a relationship with procrastination where none may exist. Specifically, those in poorer
+moods are more likely to indicate that they procrastinate, regardless of their actual behavior
+(Carver & Scheier, 1990; Sarason et al., 1990; Stainton, Lay, & Flett, 2000; Steel et al., 2001). 
+The Nature of Procrastination 45
+More importantly, mood changes; procrastinators may feel remorse for their inactions at any
+time, perhaps even after the experimental session or academic semester has ended.
+Consequently, if we tested more frequently or possibly over longer time periods, a previously
+undetected mood difference could easily appear. Since most of the studies have examined mood
+over different sections of the timeline, the direction of the relationship is expected to be
+inconsistent and meta-analytic aggregation does not appear to be advisable.
+Supporting the importance of mood, Tice reports that procrastination could be motivated
+by mood repair (Tice & Bratslavsky, 2000; Tice, Bratslavsky, & Baumeister, 2001). Students
+who were experimentally manipulated into an unhappy mood were more likely to try lifting their
+spirits before practicing for an informal math test. However, the long-term success of this
+strategy seems doubtful, with Pychyl (1995) finding a correlation of .46 between project guilt
+and project procrastination.
+More support for the importance of mood comes from researchers who have used
+repeated measures of state anxiety or mood over the duration of an academic course. Student
+procrastinators tend to be more anxious across the entire semester (Rothblum, Solomon, &
+Murakami, 1986),7
+and tend to experience less stress early on, but more stress later on and more
+stress overall (Tice & Baumeister, 1997). This last finding has been replicated in part, where the
+relationship between procrastination and state agitation (i.e., anxiety) was observed, but only
+either as an increase at the course end (Assur, 2003; Lay & Schouwenburg, 1993) or as a
+decrease at the course beginning (Towers & Flett, 2004). Similarly, employee procrastinators
+tend to continue worrying about their work after leaving the office (r=.31; Van Eerde, 1998).
+Finally, Froelich (1987) and Haycock (1993) asked students retrospectively how they felt after
+procrastinating, with over 80% of the responses categorized as negative. Similarly, an online poll 
+The Nature of Procrastination 46
+by the Procrastination Research Group (2005) based on over 9,000 respondents indicates that
+94% find that procrastination has some negative effect on their happiness, with 18% indicating
+that the effect is extremely negative.
+Other researchers, however, indicate no significant relationship between mood and
+procrastination. When the state anxiety of students was examined just before and then during
+exams, no relationship was detected between it and procrastination (Lay, Edwards, Parker, &
+Endler, 1989; Lay & Silverman, 1996). Also, student procrastinators did not become more
+agitated or dejected after recollecting their study habits, indicating that their relative lack of work
+was not particularly stressful to them (Lay, 1994). Similarly, a study using experience-sampling
+methodology over a five-day period did not find any significant relationship between
+procrastination and negative mood (Pychyl et al., 2000), despite a strong guilt relationship
+(r=.42). Finally, countering Lay and Schouwenburg‟s (1993) results, Somers (1992) found no
+significant association between mood and procrastination on the final day of class.
+Poor Performance
+The relationship between procrastination and performance is similar in strength though
+opposite in direction as that seen for conscientiousness and performance. Results, as summarized
+in Table 6, indicate a weak but consistently negative relationship between academic performance
+and procrastination. The average correlation was -.19 (K=41). As the credibility interval
+indicates, procrastination is usually harmful, sometimes harmless, but never helpful.
+Other performance criteria confirm the dangers of procrastination. Consistently,
+procrastination shows negative correlations with GPA, course GPA, final exam scores, and
+assignment grades (see Table 6). Moving away from academic indicators, Sirois (2004) as well
+as Elliot (2002) investigated the self-reported impact of procrastination on people‟s health, 
+The Nature of Procrastination 47
+finding significant negative correlations of -.16 and -.22, respectively. One major reason is that
+procrastinators tend to postpone getting appropriate medical treatments and diagnostic tests (e.g.,
+Colman, Brod, Potter, Buesching, & Rowland, 2004; Morris et al., 1990; White et al., 1994).
+Elliot found an even stronger negative relationship, -.42, between procrastination and financial
+well-being. Similarly, Mehabrian (2000) found a significant correlation of -.26 between
+career/financial success and procrastination. Notably, evaluation of success was based on peerrather than self-report.
+Demographics
+The demographic analyses are based on aggregating individual level correlations but also
+include an examination at a group level. Mean levels of procrastination were reported for 136
+samples that used one of six primary scales (e.g., API, PASS); the analyses are confined to this
+set, allowing the statistically control of measurement differences. When a study used multiple
+procrastination scales, each mean was retained, although the sample was divided among each
+result to prevent over weighting.
+These procrastination measures were converted into a common five-point metric, dummy
+coded, and then entered first into a WLS (weighted least squares) multiple regression analysis.
+The subsequent step was to enter the variable of interest (e.g., age). Although individual-level
+data tends to replicate at the group-level (Steel & Ones, 2002), this is not a necessary outcome
+(Ostroff, 1993). Meta-analytic results are summarized in Table 6.
+Age
+Initial, uncorrected results are reported in Table 6, showing that indeed procrastination
+appears to decrease with age (
+r =-.15, K=16). However, these results suffer from extreme range
+restriction. Correcting with a standard deviation based on those of age 12 and up (i.e., σ = 19.5 
+The Nature of Procrastination 48
+years) (US Census Bureau, 2000), the findings become extremely strong,
+r =-.48. Those in their
+senior years are putting off very little.
+The effect of age on procrastination was also analyzed on a group level. The results,
+however, were not significant, ( R
+2
+= .01, F(1,88) = .54, p = .47). This failure to replicate may
+be because range restriction was still intense at the group level, where the average mean age was
+21.8 and the standard deviation was 4.6.
+Sex
+Only a weak relationship was expected between sex and procrastination and the results
+bear this out. After correcting for uneven splits, men do appear to procrastinate only slightly
+more than women (
+r =-.08, K=44). At a group level, there were 124 samples that reported the
+percentage of men that comprise the sample, although the results were not significant at this level
+of analysis ( R
+2
+= .01, F(1,125) = 1.86, p = .18).
+Year
+Publication year for the reported samples with mean data spans 23 years, from 1982 to
+2005. Using publication year to indicate sample year, several analyses were conducted. After
+controlling for the different procrastination measures, year of publication has a significant effect
+for data up to 2003 ( R
+2
+= .06, F(1,123) = 7.81, p = .006; B =.027). However, including 2004
+data diminished this effect ( R
+2
+= .03, F(1,132) = 4.39, p = .04), and by 2005 it no longer is
+significant ( R
+2
+= .02, F(1,135) = 3.12, p = .08). There are several possible reasons for these
+results, such as cohort effects. However, post hoc analysis indicates that they are due to
+nationality. If we exclude the data from the USA, which comprises 65% of the results,
+procrastination in the rest of world is increasing ( R
+2
+= .30, F(1,43) = 18.85, p < .001; B =.046).
+Discussion
+The Nature of Procrastination 49
+Procrastination appears to reflect the human condition, since it is presently widespread
+and has been reported for thousands of years. It is also particularly interesting in that voluntarily
+delaying an intended course of action despite the expectation of being worse-off for the delay is
+inherently risky or negative behaviour. Furthermore, procrastination is conceptually linked to
+the conscientiousness trait, reflecting responsibility (i.e., “the diligent fulfilment of objectives”).
+This makes procrastination especially important, because it can provide insight into the
+relationship of traits to performance and motivation. As reviewed, there are theories suggesting a
+relationship between procrastination and almost every construct, from perfectionism to
+rebelliousness, and most of these theories have been tested. Efforts to understand procrastination
+have been intensive, with hundreds of studies covering a wide range of situations and variables.
+Thus, procrastination is ideal for establishing self-regulation‟s nomological web as well as for
+testing Temporal Motivational Theory, both of which this paper attempts to address.
+Regarding procrastination‟s nomological web, several strong findings have emerged.
+Consistent with its conceptual foundation, procrastination does appear to be representative of
+low conscientiousness and self-regulatory failure. Corrected for unreliability, its correlations
+were approximately -.75, comparable and even occasionally superior to correlations among
+conscientiousness measures themselves (Goldberg, 1990; Widiger & Trull, 1997). Importantly,
+the corrected correlation with performance was very close to that obtained by conscientiousness,
+around the mid .20‟s (Barrick, Mount, & Judge, 2001). This indicates that procrastination
+largely, although not entirely, accounts for the relationship of conscientiousness to performance.
+In addition, procrastination was strongly associated with a host of related concepts:
+distractibility, organization, achievement motivation, and an intention-action gap. 
+The Nature of Procrastination 50
+Given this connection between procrastination and conscientiousness, it is not surprising
+that procrastination shows weaker correlations with other traits. Agreeableness and sensation
+seeking, for example, generated low correlations, below .20. However, of particular importance
+are neuroticism and its facets of irrational beliefs and perfectionism. Repeatedly in the popular
+press and counseling resources, irrational beliefs and perfectionism are taken to be major causes
+of procrastination, as almost any self-help book or website on the topic will illustrate. This belief
+has been exacerbated by publication bias, where published works tend to report higher
+correlations for neuroticism and irrational beliefs than do unpublished works. Although there can
+be a connection, procrastination does not appear to be anxiety related. The connection with
+neuroticism appears to be due almost entirely to impulsiveness, which is sometimes nested under
+that trait. Depression‟s connection appears mostly due to waning energy levels, which make
+many tasks more aversive to pursue. Similarly, fear of failure appears to gain its relationship
+through lack of self-confidence or low self-efficacy, which does have a strong dependable
+connection. For perfectionism, the results are informative, indicating that procrastinators are
+actually less likely, not more, to be perfectionists.8
+However, several results have a conceptually and empirically unambiguous connection to
+procrastination. Of particular note, procrastination is associated at a rho of ± .40 or greater with
+individual difference variables of self-efficacy, need for achievement, proneness to boredom,
+distractibility, impulsiveness, self-control, and organization. Furthermore, the confidence interval
+widths (see Table 2 to 6) are narrow enough to confirm statistical significance, even after
+controlling for family-wise error (i.e., p<.001). These findings provide good convergent validity
+of Temporal Motivation Theory (TMT), as every outcome that it predicted was obtained (see
+Table 1). We tend to procrastinate when the task is aversive or when rewards rather than 
+The Nature of Procrastination 51
+punishments are delayed. Similarly, procrastinators tend to act against their original intentions
+(i.e., an intention-action gap) and tend to be younger rather than older. Finally, variables such as
+agreeableness and neuroticism, which other theories indicated should be associated with
+procrastination, were not significantly related, thus demonstrating discriminant validity. These
+results were confirmed with a wide range of samples, measures, and methodologies.
+Consequently, TMT does appear to be a good model for integrating the general findings
+regarding self-regulation.
+Implications of Temporal Motivation Theory (TMT)
+Because conscientiousness and procrastination are closely linked, TMT provides an
+excellent foothold towards furthering our knowledge of self-regulatory failure. As Judge and
+Ilies (2002) conclude, we lack a theoretical framework explaining how personality traits are
+related to motivation and affect performance. Similarly, as Zeidner et al. (2000) state, “A major
+problem in exploring the self-regulation construct is mapping out the pattern of interrelationships
+between self-regulation and related individual constructs, and the underlying processes to which
+they relate” (p. 755). TMT indicates that there are four major variables to focus upon:
+expectancy, value, sensitivity to delay, and delay itself. How these variables can improve selfregulation is reviewed, especially as they apply to procrastination.
+Expectancy Related Interventions
+One way of decreasing the procrastination concerning any task is to increase its
+expectancy of success. The effect, as indicated in Figure 1, would be to shift its utility curve
+upward. As the meta-analytic work here indicates, this is particularly true for self-efficacy.
+Bandura (1997), who provides some of the most extensive work in this area, contends that
+efficacy expectancy is somewhat susceptible to verbal persuasion and emotional arousal but is 
+The Nature of Procrastination 52
+especially influenced by modeling and actual performance accomplishments. By modeling,
+Bandura refers to vicarious experiences where we observe other people completing the task
+successfully. By performance accomplishments, he refers to completing the task successfully
+oneself. Consequently, it may be necessary to acquire or to improve various skills relevant to
+task completion in order to decrease procrastination later. For example, many people would
+likely finish their taxes sooner if they were more confident about completing the task
+successfully. Such confidence is bought largely with empirical confirmation. People must
+demonstrate to themselves that they are capable of such success.
+Value Related Interventions
+The review here strongly indicates that task aversiveness, that is decreasing the value of a
+task, increases procrastination. This is especially true if the task is considered boring or if it is
+attempted when energy levels are low. Given that we are unlikely to like all tasks equally, we
+expect some domain specificity with procrastination; there should be differential procrastination
+depending on whether we examine activities associated with work, health, or socializing, for
+example. Such domain specificity is not uncommon to motivational traits (e.g., VandeWalle,
+Cron, & Slocum, 2001). To address task aversiveness, we have a variety of choices.
+To begin with, we may choose to make tasks more difficult, although this runs counter to
+the previous suggestions regarding expectancy. However, increasing task difficulty should
+reduce boredom and, as the goal-setting literature indicates, can increase the self-satisfaction that
+arises from completing the difficult rather than the easy (Wright, Hollenbeck, Wolf, &
+McMahan, 1995). Consequently, tasks should be constructed to be challenging but still
+achievable. Of note, those with higher needs for achievement may be receptive to this tradeoff
+between expectancy and value, since they tend to take more pleasure in their accomplishments. 
+The Nature of Procrastination 53
+Second, Ainslie (1992) discusses how one might express a long-range interest by
+indulging in a short-range impulse. By pairing the two together, our more distant goals can
+“piggy-back” on more immediate concerns. For example, Ainslie writes about a miser who has a
+wish to give to charity. Unfortunately, the miserliness is experienced more immediately and
+supersedes the desire to be charitable. However, a stronger and even more immediate urge is to
+gamble. Consequently, the miser‟s long-term interest in benevolent giving can find expression
+through the occasional indulgence of a casino night at the local church. In this way, a task with
+distal rewards may be paired with one that offers more immediate recompense. Murray (1938)
+speaks of a similar phenomenon labeled fusing. Different needs may be satisfied through a single
+action, permitting the desire for one outcome to be augmented by way of another. Other
+examples of impulse pairing or fusing can include the creation of study groups by those who
+enjoy socializing. Though the exam may be far off, the pleasant interaction with fellow students
+can be experienced in the present. A more extreme instance of this strategy may be an entire
+career change. Someone who is high in the need for cognition, that is, making sense and order of
+the world, may find work more immediately satisfying and thus easier if he or she pursues an
+academic rather than a business career.
+Finally, one interesting way of changing the value of tasks is through classical
+conditioning. Eisenberger (1992) discusses how effort towards a goal can be conditioned to take
+on the reinforcing effects of the goal itself, an effect referred to as learned industriousness. This
+follows directly from classical conditioning, where as long as effort leads to success at least
+intermittently, effort will begin to be perceived as reinforcing in itself (i.e., a secondary
+reinforcer). This conditioning need not be limited to effort. Stromer, McComas, and Rehfeldt
+(2000) review the more general technique of stimulus chaining, where any aspect of work that 
+The Nature of Procrastination 54
+provides differential contingency for success can be a candidate. Whether the stimulus is
+pictures, praise, or pennies, as long as it repeatedly predicts the reward, associations will build.
+In this way, work can become intrinsically reinforcing; that is rewards are experienced during the
+act, not afterwards. Since there is no delay in the reward, procrastination becomes much less
+likely. Note that the ratio of successes to failures is of critical importance, especially in the early
+stages of learning. Too much failure can bring about the opposite outcome of learned
+helplessness, where effort would become increasing aversive (i.e., a conditioned punisher),
+increasing the possibility of procrastination.
+Sensitivity to Delay Interventions
+Procrastinators tend to be impulsive, distractible, and lacking in self-control; thus, they
+are very sensitive to delays. Ideally, we would like to influence these characteristics directly,
+although as personality traits they are fairly stable. There has been some success with treating
+impulse control disorders through psychopharmacology (e.g., Soutullo, McElroy, & Goldsmith,
+1998), but this option is considered too severe to be appropriate for common self-regulatory
+problems. However, we can more easily affect temptations, to which the impulsive individual is
+especially vulnerable. Given procrastination‟s association with distractibility and organization,
+two methods of reducing distractions can be immediately recommended: stimulus control and
+automaticity.
+First, stimulus control helps to direct behavior by indicating what is appropriate (i.e.,
+rewarding) under any given circumstance. To prevent procrastination, we surround ourselves
+with cues that confirm our goals and banish any sign that reminds us of temptation. Research
+indicates that this approach is effective. For example, procrastination decreased for students who
+studied in the same location (Ziesat, Rosenthal, & White, 1978), a finding which might confirm 
+The Nature of Procrastination 55
+the merit of offices. This result was largely replicated by Shoham-Salomon et al. (1989), as well
+as by Mulry et al. (1994), although both used praise in conjunction with stimulus control.
+In particular, Galué‟s (1990) and Coote-Weymann‟s (1988) workplace investigations
+indicate that the most control over procrastination can be achieved by exploiting environmental
+contributors. Consequently, we should be able to reduce procrastination by simply adjusting
+situational aspects, specifically the proximity to temptation and the prevalence of stimulus cues.
+A good example is email, with over 90% of college computer users reporting that they use it to
+delay irrationally (Brackin, Ferguson, Skelly, & Chambliss, 2000). Since the email icon is
+perpetually within the field of view and its access borders on instantaneous, simply making email
+less visible or delaying access to it should decrease procrastination.
+Second, Silver (1974) noted that one predictor of procrastination is the number of “choice
+points” that a task requires. The more junctures that require choice, the more likely it is that we
+will procrastinate. Consequently, fostering automaticity is a powerful self-control technique. It
+refers to a habitualized course of action that can be conducted with little or no conscious
+attention (Bargh & Barndollar, 1996; Karoly, 1993). These automatic routines can maintain goal
+pursuit, as they limit decision making to that relevant to the task at hand. Because of these
+confined parameters defined by the task, the decision to do otherwise is never made within a
+heavily automatized routine. Several researchers speak to this effect. For Kuhl and Goschke
+(1994), “The repeated use of strict time schedules…fosters the formation of behavioral habits
+that circumvent conflicts with competing tendencies by establishing quasi-automatic trigger
+conditions” (p. 107). Also, as Gollwitzer (1996) notes, “As long as the implementation of a
+chosen goal does not follow habitualized routes, an individual will have to make further
+decisions” (p. 292).
+The Nature of Procrastination 56
+Delay-Related Interventions
+Almost by definition, delay is related to procrastination, and empirically there is strong
+support. Two particularly relevant findings are that the intention-action gap increases the further
+the two are temporally separated, and that those who are organized tend not to procrastinate.
+These findings indicate that making proximal goals should increase motivation, which is entirely
+consistent with goal setting theory, although the effect is often attributed to providing “additional
+specific information” (Latham & Seijts, 1999, p. 422). This goal setting research can be
+supplemented by studies that have been conducted specifically on procrastination.
+A considerable amount of research has shown that goal setting does reduce
+procrastination. Boice (1989) found that daily writing goals helped to keep academic writers on a
+healthy schedule of publications. Also, in a self-paced course, Brooke and Ruthven (1984), as
+well as Lamwers and Jazwinski (1989), used contracts for periodic work completion to decrease
+procrastination. Similarly, Wesp (1986) used daily quizzes to diminish procrastination in a selfpaced course. Each set of quizzes was repeated until students achieved mastery of a section,
+whereupon a new set was administered, thus providing a constant incremental goal to work
+towards. Finally, Tuckman (1998) administered periodic quizzes in his class, finding that preidentified procrastinators tended to respond especially well to this intervention. Ariely and
+Wetenbroch (2002) investigated goal setting (specifically, creating deadlines to prevent
+procrastination), finding that they were effective, but more effective when set by other people.
+Future Research
+Extensive further research is needed that will fully explore procrastination and its
+underpinnings. Although temporal discounting is evidently key to understanding procrastination,
+and its use is widespread in the field of economics (see Loewenstein, 1992; Steel & König, in 
+The Nature of Procrastination 57
+press), the motivational literature has tended not to incorporate the notion (e.g., Franken, 1994;
+Kanfer, 1990; Mitchell, 1997) and thus can offer only limited contributions. Consequently, there
+is much interesting work to be done in the scientific fundamentals of description, prediction, and
+control.
+To begin with, although this review strongly indicates that TMT provides an excellent
+description of procrastination, further confirmation would be desirable. The individual variables
+composing TMT have been assessed, but there has yet to be a single comprehensive study
+determining how well the variables work in conjunction. Such a study could include structural
+equation modeling, which can help eliminate “third variable” explanations (see Lee et al., 2006).
+However, a more advanced approach is also recommended. Steel and König (in press) suggest
+that a computerized personal system of instruction (C-PSI) be used for further testing, as it can
+provide “a wide-range of people who are striving at their own pace towards an important goal in
+a standardized but realistic setting in which we can precisely but easily measure their behavior.”
+Such a venue has already been employed for procrastination research (Moon & Illingworth,
+2005; Steel et al., 2001) and can be specifically adapted to test TMT. We need to assess the
+critical variables of expectancy, value, impulsiveness, and delay to determine how well they
+predict observed procrastination using nonlinear regression with maximum likelihood estimation
+(Jorgensen, 1983). Nonlinear regression is necessary because TMT is itself a nonlinear equation,
+and maximum likelihood often helps to improve estimation involving a large number of people.
+Furthermore, regarding description, several individual difference variables that were
+thought to give rise to procrastination proved to have low or practically non-significant
+correlations. However, clinical practice and self-reports do indicate that some may still remain as
+contributors to procrastination. Likely, these variables represent one of several avenues by which 
+The Nature of Procrastination 58
+tasks are made aversive. For example, those who fear failure dread evaluative events that lack
+the certainty of success, while those who are rebellious loathe externally imposed deadlines.
+Whether these traits translate into chronic procrastination depends on their interaction with a host
+of internal and external variables, including people‟s innate impulsiveness and need for
+achievement, the availability of temptations, and the frequency of encountering the tasks that
+they particularly dread. Future research, then, should not immediately dismiss these traits, but
+rather determine if they are more distally related. For example, they may be important, but only
+for a subset of the population and only when their lives are confined to specific situations.
+Given that people‟s reasons for procrastination may be multifaceted, we need a
+diagnostic procedure that identifies the most promising and pliable junctures in order to lay the
+foundation for treatment. As theory indicates, there are a variety of reasons why people might
+irrationally delay a task. As mentioned, they may be surrounded by easily available temptations.
+They may be excessively impulsive. The task itself may be seen as excessively risky or aversive.
+Each of these possibilities demands a very different response, and until we can fully assess
+people‟s procrastination etiology, our efforts at helping must necessarily be haphazard.
+Of particular relevance to diagnosis is a connection between brain functioning and
+procrastination. In a recent review, Skolyes and Sagan (2002) note the following:
+Something in our brains has to give the inner cues that start us doing things, keep us
+going, and, if need be, change what we are doing. Usually that executive function belongs
+to our prefrontal cortex. When it is injured, people tend to lose initiative. They may be
+able to do things, but they don‟t get around to it. (p. 45)
+So far the only investigation of the prefrontal cortex as a source of procrastination has been a
+doctorate thesis by Stone (1999), who failed to find a significant effect. Still closer examination 
+The Nature of Procrastination 59
+is warranted, including examination of other promising brain areas. Of note, researchers studying
+addiction, another area of irrational decision making, have identified a host of promising neural
+systems that deal with the self-regulation of behavior (Robinson & Berridge, 2003). In particular,
+the anterior cingulate has a pivotal role in preventing impulsive behavior and maintaining
+attention to the task at hand.
+Regarding control, our traditional treatments for procrastination should be more
+extensive. Procrastination is usually work related, but industrial-organizational interventions are
+limited primarily to goal setting and coping with stress (Karoly, 1993; Terry, Tonge, & Callan,
+1995). A few alternatives have already been mentioned, but there are still many other methods of
+regulation that are largely overlooked or whose efficacies are only beginning to be understood.
+Particularly promising as a method of motivational control is altering one‟s attention towards a
+temptation. As an early example, Ainslie (1992) notes that Freudian defense mechanisms (i.e.,
+repression) provide much of their effectiveness by diverting “painful stimuli away from both
+awareness and motor responsiveness into the unconscious” (p. 128). More recently, Mischel
+(1996), alone and with others (Metcalfe & Mischel, 1999; Mischel, Shoda, & Rodriguez, 1989),
+reviews this topic in depth, exploring a host of different attentional tactics that children can use
+to delay gratification.
+Finally, procrastination‟s intention-action gap is of particular importance. Although the
+capacity of intentions for explaining behavior is debatable (e.g., Greve, 2001), they are still very
+useful in predicting behavior. Intentions form the crux of action theories, particularly the Theory
+of Planned Behavior (Ajzen, 1991). Meta-analytic summary of the Theory of Planned Behavior
+shows that the intention-behavior correlation is on average .47 (Armitage & Conner, 2001),
+which increases slightly to .52 with the assessment of Perceived Behavioral Control (i.e., an 
+The Nature of Procrastination 60
+expectancy related variable). However, although time is now recognized as moderator, its
+mechanisms are not yet fully incorporated. For example, as Ajzen (1988) summarizes, “Since the
+likelihood of unforeseen events will tend to increase as time passes, we would expect to find
+stronger intention-behavior correlations with short rather than long periods of delay” (p. 116).
+Although changes of circumstance can undoubtedly affect behavior, as TMT suggests, time itself
+will affect motivational intensity and thus behavioral direction (see Figure 2). Furthermore, the
+degree to which people are susceptible to an intention-action gap is largely influenced by the trait
+of procrastination (van Hooft et al., 2005). Consequently, once trait procrastination is considered,
+the ability of intentions to predict behavior could increase significantly.
+Conclusion
